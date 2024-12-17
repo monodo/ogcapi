@@ -1,0 +1,6 @@
+Django>5
+# Base docker image must be update when GDAL is updated
+gunicorn
+psycopg
+requests
+whitenoise
