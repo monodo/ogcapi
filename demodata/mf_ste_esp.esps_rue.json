@@ -1,0 +1,3125 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Sablonnaire",
+		"id" : 193,
+		"code" : 193,
+		"constraining" : null,
+		"rueid" : 193,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. de l'Ancienne-Poste",
+		"id" : 6,
+		"code" : 6,
+		"constraining" : null,
+		"rueid" : 6,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Sources",
+		"id" : 202,
+		"code" : 202,
+		"constraining" : null,
+		"rueid" : 202,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue François-Frédéric-Petitmaître",
+		"id" : 77,
+		"code" : 77,
+		"constraining" : null,
+		"rueid" : 77,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Roger-de-Guimps",
+		"id" : 189,
+		"code" : 189,
+		"constraining" : null,
+		"rueid" : 189,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Lilas",
+		"id" : 115,
+		"code" : 115,
+		"constraining" : null,
+		"rueid" : 115,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Pyrame-de-Candolle",
+		"id" : 178,
+		"code" : 178,
+		"constraining" : null,
+		"rueid" : 178,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Quai de l'Ancienne-Douane",
+		"id" : 5,
+		"code" : 5,
+		"constraining" : null,
+		"rueid" : 5,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Mouettes",
+		"id" : 133,
+		"code" : 133,
+		"constraining" : null,
+		"rueid" : 133,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. Pierre-de-Savoie",
+		"id" : 160,
+		"code" : 160,
+		"constraining" : null,
+		"rueid" : 160,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Condémines",
+		"id" : 51,
+		"code" : 51,
+		"constraining" : null,
+		"rueid" : 51,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Polonais",
+		"id" : 165,
+		"code" : 165,
+		"constraining" : null,
+		"rueid" : 165,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Montchoisi",
+		"id" : 127,
+		"code" : 127,
+		"constraining" : null,
+		"rueid" : 127,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Casernes",
+		"id" : 29,
+		"code" : 29,
+		"constraining" : null,
+		"rueid" : 29,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Jordils",
+		"id" : 106,
+		"code" : 106,
+		"constraining" : null,
+		"rueid" : 106,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Peupliers",
+		"id" : 158,
+		"code" : 158,
+		"constraining" : null,
+		"rueid" : 158,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Bosquets",
+		"id" : 22,
+		"code" : 22,
+		"constraining" : null,
+		"rueid" : 22,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Petite-Thoile",
+		"id" : 154,
+		"code" : 154,
+		"constraining" : null,
+		"rueid" : 154,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Léon-Michaud",
+		"id" : 113,
+		"code" : 113,
+		"constraining" : null,
+		"rueid" : 113,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prom. des Pins",
+		"id" : 161,
+		"code" : 161,
+		"constraining" : null,
+		"rueid" : 161,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Cariçaie",
+		"id" : 35,
+		"code" : 35,
+		"constraining" : null,
+		"rueid" : 35,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Pré-Neuf",
+		"id" : 172,
+		"code" : 172,
+		"constraining" : null,
+		"rueid" : 172,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Vignes",
+		"id" : 225,
+		"code" : 225,
+		"constraining" : null,
+		"rueid" : 225,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Levant",
+		"id" : 114,
+		"code" : 114,
+		"constraining" : null,
+		"rueid" : 114,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prom. Dessus-les-Moulins",
+		"id" : 61,
+		"code" : 61,
+		"constraining" : null,
+		"rueid" : 61,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Mujon",
+		"id" : 138,
+		"code" : 138,
+		"constraining" : null,
+		"rueid" : 138,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Parc",
+		"id" : 148,
+		"code" : 148,
+		"constraining" : null,
+		"rueid" : 148,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Collège",
+		"id" : 49,
+		"code" : 49,
+		"constraining" : null,
+		"rueid" : 49,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Tilleuls",
+		"id" : 212,
+		"code" : 212,
+		"constraining" : null,
+		"rueid" : 212,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Champs-Lovats",
+		"id" : 36,
+		"code" : 36,
+		"constraining" : null,
+		"rueid" : 36,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Malte",
+		"id" : 253,
+		"code" : 253,
+		"constraining" : null,
+		"rueid" : 253,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Calamin",
+		"id" : 27,
+		"code" : 27,
+		"constraining" : null,
+		"rueid" : 27,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Liserons",
+		"id" : 116,
+		"code" : 116,
+		"constraining" : null,
+		"rueid" : 116,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Colline",
+		"id" : 50,
+		"code" : 50,
+		"constraining" : null,
+		"rueid" : 50,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Indépendance",
+		"id" : 97,
+		"code" : 97,
+		"constraining" : null,
+		"rueid" : 97,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Acacias",
+		"id" : 1,
+		"code" : 1,
+		"constraining" : null,
+		"rueid" : 1,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle Lucius-Aemilius-Faustus",
+		"id" : 118,
+		"code" : 118,
+		"constraining" : null,
+		"rueid" : 118,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de la Sallaz",
+		"id" : 198,
+		"code" : 198,
+		"constraining" : null,
+		"rueid" : 198,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. Occidental",
+		"id" : 143,
+		"code" : 143,
+		"constraining" : null,
+		"rueid" : 143,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cité Préville",
+		"id" : 175,
+		"code" : 175,
+		"constraining" : null,
+		"rueid" : 175,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Lac",
+		"id" : 109,
+		"code" : 109,
+		"constraining" : null,
+		"rueid" : 109,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Hôpital",
+		"id" : 96,
+		"code" : 96,
+		"constraining" : null,
+		"rueid" : 96,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prom. du Mont-d'Or",
+		"id" : 128,
+		"code" : 128,
+		"constraining" : null,
+		"rueid" : 128,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. des Iris",
+		"id" : 99,
+		"code" : 99,
+		"constraining" : null,
+		"rueid" : 99,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle Buttin",
+		"id" : 26,
+		"code" : 26,
+		"constraining" : null,
+		"rueid" : 26,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Lac de Neuchâtel",
+		"id" : 330,
+		"code" : 330,
+		"constraining" : null,
+		"rueid" : 330,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Roseyres",
+		"id" : 192,
+		"code" : 192,
+		"constraining" : null,
+		"rueid" : 192,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Milieu",
+		"id" : 124,
+		"code" : 124,
+		"constraining" : null,
+		"rueid" : 124,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. des Découvertes",
+		"id" : 60,
+		"code" : 60,
+		"constraining" : null,
+		"rueid" : 60,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Isles",
+		"id" : 100,
+		"code" : 100,
+		"constraining" : null,
+		"rueid" : 100,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Coteau",
+		"id" : 53,
+		"code" : 53,
+		"constraining" : null,
+		"rueid" : 53,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Cygnes",
+		"id" : 59,
+		"code" : 59,
+		"constraining" : null,
+		"rueid" : 59,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Vuagères",
+		"id" : 229,
+		"code" : 229,
+		"constraining" : null,
+		"rueid" : 229,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Jean-André-Venel",
+		"id" : 102,
+		"code" : 102,
+		"constraining" : null,
+		"rueid" : 102,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du 14-Avril",
+		"id" : 180,
+		"code" : 180,
+		"constraining" : null,
+		"rueid" : 180,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. Kiener",
+		"id" : 108,
+		"code" : 108,
+		"constraining" : null,
+		"rueid" : 108,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Faïencerie",
+		"id" : 67,
+		"code" : 67,
+		"constraining" : null,
+		"rueid" : 67,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Moulins",
+		"id" : 134,
+		"code" : 134,
+		"constraining" : null,
+		"rueid" : 134,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Foulques",
+		"id" : 74,
+		"code" : 74,
+		"constraining" : null,
+		"rueid" : 74,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Vermont",
+		"id" : 222,
+		"code" : 222,
+		"constraining" : null,
+		"rueid" : 222,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Jolimont",
+		"id" : 104,
+		"code" : 104,
+		"constraining" : null,
+		"rueid" : 104,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Philosophes",
+		"id" : 159,
+		"code" : 159,
+		"constraining" : null,
+		"rueid" : 159,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de Bellevue",
+		"id" : 19,
+		"code" : 19,
+		"constraining" : null,
+		"rueid" : 19,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Sainte-Croix",
+		"id" : 195,
+		"code" : 195,
+		"constraining" : null,
+		"rueid" : 195,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. des Trois-Lacs",
+		"id" : 214,
+		"code" : 214,
+		"constraining" : null,
+		"rueid" : 214,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Rivage",
+		"id" : 187,
+		"code" : 187,
+		"constraining" : null,
+		"rueid" : 187,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Quatre-Vingts-Parties",
+		"id" : 182,
+		"code" : 182,
+		"constraining" : null,
+		"rueid" : 182,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Frêne",
+		"id" : 78,
+		"code" : 78,
+		"constraining" : null,
+		"rueid" : 78,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Graveline",
+		"id" : 89,
+		"code" : 89,
+		"constraining" : null,
+		"rueid" : 89,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Sous-Bois",
+		"id" : 203,
+		"code" : 203,
+		"constraining" : null,
+		"rueid" : 203,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Graveline",
+		"id" : 88,
+		"code" : 88,
+		"constraining" : null,
+		"rueid" : 88,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Madagascar",
+		"id" : 252,
+		"code" : 252,
+		"constraining" : null,
+		"rueid" : 252,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Montélaz",
+		"id" : 130,
+		"code" : 130,
+		"constraining" : null,
+		"rueid" : 130,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Beauregard",
+		"id" : 17,
+		"code" : 17,
+		"constraining" : null,
+		"rueid" : 17,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle Dosson",
+		"id" : 62,
+		"code" : 62,
+		"constraining" : null,
+		"rueid" : 62,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Thermes",
+		"id" : 210,
+		"code" : 210,
+		"constraining" : null,
+		"rueid" : 210,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Canal",
+		"id" : 28,
+		"code" : 28,
+		"constraining" : null,
+		"rueid" : 28,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. Hoog",
+		"id" : 95,
+		"code" : 95,
+		"constraining" : null,
+		"rueid" : 95,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Beaumont",
+		"id" : 16,
+		"code" : 16,
+		"constraining" : null,
+		"rueid" : 16,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Chaînettes",
+		"id" : 32,
+		"code" : 32,
+		"constraining" : null,
+		"rueid" : 32,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle Vautier",
+		"id" : 220,
+		"code" : 220,
+		"constraining" : null,
+		"rueid" : 220,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Montagny",
+		"id" : 126,
+		"code" : 126,
+		"constraining" : null,
+		"rueid" : 126,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. Général-Guisan",
+		"id" : 84,
+		"code" : 84,
+		"constraining" : null,
+		"rueid" : 84,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. de l'Hippodrome",
+		"id" : 94,
+		"code" : 94,
+		"constraining" : null,
+		"rueid" : 94,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Suchet",
+		"id" : 205,
+		"code" : 205,
+		"constraining" : null,
+		"rueid" : 205,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Arthur-Mermod",
+		"id" : 10,
+		"code" : 10,
+		"constraining" : null,
+		"rueid" : 10,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Neuchâtel",
+		"id" : 139,
+		"code" : 139,
+		"constraining" : null,
+		"rueid" : 139,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. des Bains",
+		"id" : 14,
+		"code" : 14,
+		"constraining" : null,
+		"rueid" : 14,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Florimont",
+		"id" : 71,
+		"code" : 71,
+		"constraining" : null,
+		"rueid" : 71,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Pré-Fleuri",
+		"id" : 170,
+		"code" : 170,
+		"constraining" : null,
+		"rueid" : 170,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Saint-Roch",
+		"id" : 197,
+		"code" : 197,
+		"constraining" : null,
+		"rueid" : 197,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Fleurettes",
+		"id" : 69,
+		"code" : 69,
+		"constraining" : null,
+		"rueid" : 69,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Alpes",
+		"id" : 3,
+		"code" : 3,
+		"constraining" : null,
+		"rueid" : 3,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Maréchat",
+		"id" : 121,
+		"code" : 121,
+		"constraining" : null,
+		"rueid" : 121,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue d'Entremonts",
+		"id" : 66,
+		"code" : 66,
+		"constraining" : null,
+		"rueid" : 66,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Casino",
+		"id" : 30,
+		"code" : 30,
+		"constraining" : null,
+		"rueid" : 30,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Vergers",
+		"id" : 221,
+		"code" : 221,
+		"constraining" : null,
+		"rueid" : 221,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Plaine",
+		"id" : 163,
+		"code" : 163,
+		"constraining" : null,
+		"rueid" : 163,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Françoise-Perret",
+		"id" : 256,
+		"code" : 256,
+		"constraining" : null,
+		"rueid" : 256,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Mont-d'Or",
+		"id" : 129,
+		"code" : 129,
+		"constraining" : null,
+		"rueid" : 129,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Pythagore",
+		"id" : 179,
+		"code" : 179,
+		"constraining" : null,
+		"rueid" : 179,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue William-Barbey",
+		"id" : 230,
+		"code" : 230,
+		"constraining" : null,
+		"rueid" : 230,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de Cheseaux",
+		"id" : 42,
+		"code" : 42,
+		"constraining" : null,
+		"rueid" : 42,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Petits-Champs",
+		"id" : 156,
+		"code" : 156,
+		"constraining" : null,
+		"rueid" : 156,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Allée de Winterthour",
+		"id" : 231,
+		"code" : 231,
+		"constraining" : null,
+		"rueid" : 231,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Coin-de-Terre",
+		"id" : 48,
+		"code" : 48,
+		"constraining" : null,
+		"rueid" : 48,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de l'Aérodrome",
+		"id" : 2,
+		"code" : 2,
+		"constraining" : null,
+		"rueid" : 2,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Fontenay",
+		"id" : 72,
+		"code" : 72,
+		"constraining" : null,
+		"rueid" : 72,
+		"short_name" : "Fontenay"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Séchoir",
+		"id" : 201,
+		"code" : 201,
+		"constraining" : null,
+		"rueid" : 201,
+		"short_name" : "Séchoir"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Quai des Ateliers",
+		"id" : 11,
+		"code" : 11,
+		"constraining" : null,
+		"rueid" : 11,
+		"short_name" : "Ateliers"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Riants-Fleurs",
+		"id" : 186,
+		"code" : 186,
+		"constraining" : null,
+		"rueid" : 186,
+		"short_name" : "Riants-Fleurs"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Roselière",
+		"id" : 190,
+		"code" : 190,
+		"constraining" : null,
+		"rueid" : 190,
+		"short_name" : "Roselière"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Cottages",
+		"id" : 54,
+		"code" : 54,
+		"constraining" : null,
+		"rueid" : 54,
+		"short_name" : "Cottages"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Midi",
+		"id" : 123,
+		"code" : 123,
+		"constraining" : null,
+		"rueid" : 123,
+		"short_name" : "Midi"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Elie-Bertrand",
+		"id" : 65,
+		"code" : 65,
+		"constraining" : null,
+		"rueid" : 65,
+		"short_name" : "Elie-Bertrand"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Chypre",
+		"id" : 239,
+		"code" : 239,
+		"constraining" : null,
+		"rueid" : 239,
+		"short_name" : "Chypre"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Jardin Japonais",
+		"id" : 341,
+		"code" : 341,
+		"constraining" : null,
+		"rueid" : 341,
+		"short_name" : "Japonais"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Pré-du-Canal",
+		"id" : 169,
+		"code" : 169,
+		"constraining" : null,
+		"rueid" : 169,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Léon-Jaquier",
+		"id" : 112,
+		"code" : 112,
+		"constraining" : null,
+		"rueid" : 112,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Vounoz",
+		"id" : 228,
+		"code" : 228,
+		"constraining" : null,
+		"rueid" : 228,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chauss. de Treycovagnes",
+		"id" : 213,
+		"code" : 213,
+		"constraining" : null,
+		"rueid" : 213,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. de la Plage",
+		"id" : 162,
+		"code" : 162,
+		"constraining" : null,
+		"rueid" : 162,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Buron",
+		"id" : 25,
+		"code" : 25,
+		"constraining" : null,
+		"rueid" : 25,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Muguets",
+		"id" : 135,
+		"code" : 135,
+		"constraining" : null,
+		"rueid" : 135,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Chalamont",
+		"id" : 33,
+		"code" : 33,
+		"constraining" : null,
+		"rueid" : 33,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Curtil-Maillet",
+		"id" : 58,
+		"code" : 58,
+		"constraining" : null,
+		"rueid" : 58,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Neuve",
+		"id" : 140,
+		"code" : 140,
+		"constraining" : null,
+		"rueid" : 140,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Cheminet",
+		"id" : 41,
+		"code" : 41,
+		"constraining" : null,
+		"rueid" : 41,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prom. Jean-Jacques-Rousseau",
+		"id" : 103,
+		"code" : 103,
+		"constraining" : null,
+		"rueid" : 103,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Henry-Correvon",
+		"id" : 93,
+		"code" : 93,
+		"constraining" : null,
+		"rueid" : 93,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Clairs-Logis",
+		"id" : 46,
+		"code" : 46,
+		"constraining" : null,
+		"rueid" : 46,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Jonction",
+		"id" : 105,
+		"code" : 105,
+		"constraining" : null,
+		"rueid" : 105,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Petites-Roches",
+		"id" : 153,
+		"code" : 153,
+		"constraining" : null,
+		"rueid" : 153,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Cordey",
+		"id" : 52,
+		"code" : 52,
+		"constraining" : null,
+		"rueid" : 52,
+		"short_name" : "Cordey"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège des Quatre-Marronniers",
+		"id" : 570,
+		"code" : 570,
+		"constraining" : null,
+		"rueid" : 570,
+		"short_name" : "Quatre-Marronniers"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Four",
+		"id" : 75,
+		"code" : 75,
+		"constraining" : null,
+		"rueid" : 75,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Terrasses",
+		"id" : 208,
+		"code" : 208,
+		"constraining" : null,
+		"rueid" : 208,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Valentin",
+		"id" : 218,
+		"code" : 218,
+		"constraining" : null,
+		"rueid" : 218,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Payerne",
+		"id" : 149,
+		"code" : 149,
+		"constraining" : null,
+		"rueid" : 149,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Quai de la Thièle",
+		"id" : 211,
+		"code" : 211,
+		"constraining" : null,
+		"rueid" : 211,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Tuileries",
+		"id" : 215,
+		"code" : 215,
+		"constraining" : null,
+		"rueid" : 215,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de Sainte-Croix",
+		"id" : 194,
+		"code" : 194,
+		"constraining" : null,
+		"rueid" : 194,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Jura",
+		"id" : 107,
+		"code" : 107,
+		"constraining" : null,
+		"rueid" : 107,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Remparts",
+		"id" : 183,
+		"code" : 183,
+		"constraining" : null,
+		"rueid" : 183,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Maison-Rouge",
+		"id" : 119,
+		"code" : 119,
+		"constraining" : null,
+		"rueid" : 119,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Plaisance",
+		"id" : 164,
+		"code" : 164,
+		"constraining" : null,
+		"rueid" : 164,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Gasparin",
+		"id" : 83,
+		"code" : 83,
+		"constraining" : null,
+		"rueid" : 83,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Pêcheurs",
+		"id" : 150,
+		"code" : 150,
+		"constraining" : null,
+		"rueid" : 150,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Uttins",
+		"id" : 216,
+		"code" : 216,
+		"constraining" : null,
+		"rueid" : 216,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Chamblon",
+		"id" : 34,
+		"code" : 34,
+		"constraining" : null,
+		"rueid" : 34,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Avenir",
+		"id" : 13,
+		"code" : 13,
+		"constraining" : null,
+		"rueid" : 13,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Pré",
+		"id" : 168,
+		"code" : 168,
+		"constraining" : null,
+		"rueid" : 168,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Orient",
+		"id" : 146,
+		"code" : 146,
+		"constraining" : null,
+		"rueid" : 146,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Grèbes",
+		"id" : 90,
+		"code" : 90,
+		"constraining" : null,
+		"rueid" : 90,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Floreyres",
+		"id" : 70,
+		"code" : 70,
+		"constraining" : null,
+		"rueid" : 70,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Saint-Georges",
+		"id" : 196,
+		"code" : 196,
+		"constraining" : null,
+		"rueid" : 196,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Oiseaux",
+		"id" : 144,
+		"code" : 144,
+		"constraining" : null,
+		"rueid" : 144,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Villette",
+		"id" : 226,
+		"code" : 226,
+		"constraining" : null,
+		"rueid" : 226,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Industrie",
+		"id" : 98,
+		"code" : 98,
+		"constraining" : null,
+		"rueid" : 98,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Nord",
+		"id" : 142,
+		"code" : 142,
+		"constraining" : null,
+		"rueid" : 142,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Charmilles",
+		"id" : 37,
+		"code" : 37,
+		"constraining" : null,
+		"rueid" : 37,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du 24-Janvier",
+		"id" : 227,
+		"code" : 227,
+		"constraining" : null,
+		"rueid" : 227,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Paix",
+		"id" : 147,
+		"code" : 147,
+		"constraining" : null,
+		"rueid" : 147,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Couchant",
+		"id" : 55,
+		"code" : 55,
+		"constraining" : null,
+		"rueid" : 55,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Prés-du-Lac",
+		"id" : 174,
+		"code" : 174,
+		"constraining" : null,
+		"rueid" : 174,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Belvédère",
+		"id" : 20,
+		"code" : 20,
+		"constraining" : null,
+		"rueid" : 20,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Terminus",
+		"id" : 207,
+		"code" : 207,
+		"constraining" : null,
+		"rueid" : 207,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Mauborget",
+		"id" : 122,
+		"code" : 122,
+		"constraining" : null,
+		"rueid" : 122,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Roses",
+		"id" : 191,
+		"code" : 191,
+		"constraining" : null,
+		"rueid" : 191,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Corfou",
+		"id" : 240,
+		"code" : 240,
+		"constraining" : null,
+		"rueid" : 240,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Bouleaux",
+		"id" : 23,
+		"code" : 23,
+		"constraining" : null,
+		"rueid" : 23,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Ancien-Stand",
+		"id" : 7,
+		"code" : 7,
+		"constraining" : null,
+		"rueid" : 7,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. des Sciences",
+		"id" : 200,
+		"code" : 200,
+		"constraining" : null,
+		"rueid" : 200,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue d'Orbe",
+		"id" : 145,
+		"code" : 145,
+		"constraining" : null,
+		"rueid" : 145,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. Pestalozzi",
+		"id" : 151,
+		"code" : 151,
+		"constraining" : null,
+		"rueid" : 151,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. des Quatre-Marronniers",
+		"id" : 181,
+		"code" : 181,
+		"constraining" : null,
+		"rueid" : 181,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prom. René-Berthoud",
+		"id" : 185,
+		"code" : 185,
+		"constraining" : null,
+		"rueid" : 185,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Mont-Tendre",
+		"id" : 132,
+		"code" : 132,
+		"constraining" : null,
+		"rueid" : 132,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Clairmont",
+		"id" : 45,
+		"code" : 45,
+		"constraining" : null,
+		"rueid" : 45,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Blancherie",
+		"id" : 21,
+		"code" : 21,
+		"constraining" : null,
+		"rueid" : 21,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Bullet",
+		"id" : 24,
+		"code" : 24,
+		"constraining" : null,
+		"rueid" : 24,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Chasseron",
+		"id" : 38,
+		"code" : 38,
+		"constraining" : null,
+		"rueid" : 38,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Edouard-Verdan",
+		"id" : 64,
+		"code" : 64,
+		"constraining" : null,
+		"rueid" : 64,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Mujon",
+		"id" : 136,
+		"code" : 136,
+		"constraining" : null,
+		"rueid" : 136,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Vernes",
+		"id" : 224,
+		"code" : 224,
+		"constraining" : null,
+		"rueid" : 224,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Cerisiers",
+		"id" : 31,
+		"code" : 31,
+		"constraining" : null,
+		"rueid" : 31,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Quai de Nogent",
+		"id" : 141,
+		"code" : 141,
+		"constraining" : null,
+		"rueid" : 141,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de Pomy",
+		"id" : 166,
+		"code" : 166,
+		"constraining" : null,
+		"rueid" : 166,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. des Sports",
+		"id" : 204,
+		"code" : 204,
+		"constraining" : null,
+		"rueid" : 204,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue des Jardins",
+		"id" : 101,
+		"code" : 101,
+		"constraining" : null,
+		"rueid" : 101,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. Bel-Air",
+		"id" : 18,
+		"code" : 18,
+		"constraining" : null,
+		"rueid" : 18,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Rhodes",
+		"id" : 261,
+		"code" : 261,
+		"constraining" : null,
+		"rueid" : 261,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Maladaire",
+		"id" : 120,
+		"code" : 120,
+		"constraining" : null,
+		"rueid" : 120,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Quart. des Pugessies",
+		"id" : 176,
+		"code" : 176,
+		"constraining" : null,
+		"rueid" : 176,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Félice",
+		"id" : 68,
+		"code" : 68,
+		"constraining" : null,
+		"rueid" : 68,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Vallon",
+		"id" : 219,
+		"code" : 219,
+		"constraining" : null,
+		"rueid" : 219,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Galilée",
+		"id" : 79,
+		"code" : 79,
+		"constraining" : null,
+		"rueid" : 79,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pass. du Mujon",
+		"id" : 137,
+		"code" : 137,
+		"constraining" : null,
+		"rueid" : 137,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. de Grandson",
+		"id" : 86,
+		"code" : 86,
+		"constraining" : null,
+		"rueid" : 86,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Pré-Français",
+		"id" : 171,
+		"code" : 171,
+		"constraining" : null,
+		"rueid" : 171,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Petit-Marais",
+		"id" : 257,
+		"code" : 257,
+		"constraining" : null,
+		"rueid" : 257,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Vernes",
+		"id" : 263,
+		"code" : 263,
+		"constraining" : null,
+		"rueid" : 263,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de la Batellerie",
+		"id" : 236,
+		"code" : 236,
+		"constraining" : null,
+		"rueid" : 236,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prom. Robert-Hainard",
+		"id" : 250,
+		"code" : 250,
+		"constraining" : null,
+		"rueid" : 250,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Cuarny",
+		"id" : 241,
+		"code" : 241,
+		"constraining" : null,
+		"rueid" : 241,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Chevressy",
+		"id" : 238,
+		"code" : 238,
+		"constraining" : null,
+		"rueid" : 238,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Mont-Riant",
+		"id" : 255,
+		"code" : 255,
+		"constraining" : null,
+		"rueid" : 255,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. des Prés-aux-Oies",
+		"id" : 259,
+		"code" : 259,
+		"constraining" : null,
+		"rueid" : 259,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Gravaz",
+		"id" : 249,
+		"code" : 249,
+		"constraining" : null,
+		"rueid" : 249,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Grande-Prairie",
+		"id" : 248,
+		"code" : 248,
+		"constraining" : null,
+		"rueid" : 248,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle de la Cure",
+		"id" : 242,
+		"code" : 242,
+		"constraining" : null,
+		"rueid" : 242,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle du Milieu",
+		"id" : 254,
+		"code" : 254,
+		"constraining" : null,
+		"rueid" : 254,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle Punaise",
+		"id" : 260,
+		"code" : 260,
+		"constraining" : null,
+		"rueid" : 260,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle de la Gare",
+		"id" : 247,
+		"code" : 247,
+		"constraining" : null,
+		"rueid" : 247,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle du Four",
+		"id" : 246,
+		"code" : 246,
+		"constraining" : null,
+		"rueid" : 246,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. de la Tannerie",
+		"id" : 262,
+		"code" : 262,
+		"constraining" : null,
+		"rueid" : 262,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. des Droits-de-l'Homme",
+		"id" : 243,
+		"code" : 243,
+		"constraining" : null,
+		"rueid" : 243,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. de l'Amitié",
+		"id" : 233,
+		"code" : 233,
+		"constraining" : null,
+		"rueid" : 233,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. de la Forge",
+		"id" : 245,
+		"code" : 245,
+		"constraining" : null,
+		"rueid" : 245,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue René-Auberjonois",
+		"id" : 235,
+		"code" : 235,
+		"constraining" : null,
+		"rueid" : 235,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Louis-Ducros",
+		"id" : 244,
+		"code" : 244,
+		"constraining" : null,
+		"rueid" : 244,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. d'Armes",
+		"id" : 234,
+		"code" : 234,
+		"constraining" : null,
+		"rueid" : 234,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle de la Forge",
+		"id" : 271,
+		"code" : 271,
+		"constraining" : null,
+		"rueid" : 271,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. de la Gare",
+		"id" : 80,
+		"code" : 80,
+		"constraining" : null,
+		"rueid" : 80,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pl. de la Gare",
+		"id" : 272,
+		"code" : 272,
+		"constraining" : null,
+		"rueid" : 272,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte des Champs-Torrens",
+		"id" : 274,
+		"code" : 274,
+		"constraining" : null,
+		"rueid" : 274,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Brésil",
+		"id" : 275,
+		"code" : 275,
+		"constraining" : null,
+		"rueid" : 275,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Le Bas-des-Monts",
+		"id" : 276,
+		"code" : 276,
+		"constraining" : null,
+		"rueid" : 276,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Les Péchaux",
+		"id" : 277,
+		"code" : 277,
+		"constraining" : null,
+		"rueid" : 277,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Centrale",
+		"id" : 278,
+		"code" : 278,
+		"constraining" : null,
+		"rueid" : 278,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte du Puits",
+		"id" : 279,
+		"code" : 279,
+		"constraining" : null,
+		"rueid" : 279,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Vigne",
+		"id" : 280,
+		"code" : 280,
+		"constraining" : null,
+		"rueid" : 280,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rlle des Fours",
+		"id" : 281,
+		"code" : 281,
+		"constraining" : null,
+		"rueid" : 281,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Clos",
+		"id" : 282,
+		"code" : 282,
+		"constraining" : null,
+		"rueid" : 282,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de l'Eglise",
+		"id" : 283,
+		"code" : 283,
+		"constraining" : null,
+		"rueid" : 283,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Corneau",
+		"id" : 284,
+		"code" : 284,
+		"constraining" : null,
+		"rueid" : 284,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de Pomy",
+		"id" : 285,
+		"code" : 285,
+		"constraining" : null,
+		"rueid" : 285,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Rempart",
+		"id" : 286,
+		"code" : 286,
+		"constraining" : null,
+		"rueid" : 286,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de Michamp",
+		"id" : 287,
+		"code" : 287,
+		"constraining" : null,
+		"rueid" : 287,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de Lausanne",
+		"id" : 111,
+		"code" : 111,
+		"constraining" : null,
+		"rueid" : 111,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "AA - Inconnu",
+		"id" : 571,
+		"code" : 571,
+		"constraining" : null,
+		"rueid" : 571,
+		"short_name" : "Inconnu"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Le Bey",
+		"id" : 290,
+		"code" : 290,
+		"constraining" : null,
+		"rueid" : 290,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Le Mujon",
+		"id" : 291,
+		"code" : 291,
+		"constraining" : null,
+		"rueid" : 291,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sur-la-Vaux",
+		"id" : 321,
+		"code" : 321,
+		"constraining" : null,
+		"rueid" : 321,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bugnon",
+		"id" : 322,
+		"code" : 322,
+		"constraining" : null,
+		"rueid" : 322,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rondan",
+		"id" : 323,
+		"code" : 323,
+		"constraining" : null,
+		"rueid" : 323,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Champ de la Source",
+		"id" : 324,
+		"code" : 324,
+		"constraining" : null,
+		"rueid" : 324,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Corbassinde",
+		"id" : 325,
+		"code" : 325,
+		"constraining" : null,
+		"rueid" : 325,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Grands-Champs",
+		"id" : 326,
+		"code" : 326,
+		"constraining" : null,
+		"rueid" : 326,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sur-la-Côte",
+		"id" : 327,
+		"code" : 327,
+		"constraining" : null,
+		"rueid" : 327,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Grande-Côte-de-Corbassinde",
+		"id" : 328,
+		"code" : 328,
+		"constraining" : null,
+		"rueid" : 328,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Frayettes-Dessus",
+		"id" : 329,
+		"code" : 329,
+		"constraining" : null,
+		"rueid" : 329,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Autoroute",
+		"id" : 295,
+		"code" : 295,
+		"constraining" : null,
+		"rueid" : 295,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rte de la Grève",
+		"id" : 296,
+		"code" : 296,
+		"constraining" : null,
+		"rueid" : 296,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Grève de Champ-Pittet",
+		"id" : 297,
+		"code" : 297,
+		"constraining" : null,
+		"rueid" : 297,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Voie ferrée",
+		"id" : 298,
+		"code" : 298,
+		"constraining" : null,
+		"rueid" : 298,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Champ-Pittet",
+		"id" : 299,
+		"code" : 299,
+		"constraining" : null,
+		"rueid" : 299,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Le Valentin",
+		"id" : 300,
+		"code" : 300,
+		"constraining" : null,
+		"rueid" : 300,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pra-Burnez",
+		"id" : 301,
+		"code" : 301,
+		"constraining" : null,
+		"rueid" : 301,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Les Parties",
+		"id" : 302,
+		"code" : 302,
+		"constraining" : null,
+		"rueid" : 302,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Les Sapelles",
+		"id" : 303,
+		"code" : 303,
+		"constraining" : null,
+		"rueid" : 303,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sur Thièle",
+		"id" : 304,
+		"code" : 304,
+		"constraining" : null,
+		"rueid" : 304,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Au Grand-Clos",
+		"id" : 305,
+		"code" : 305,
+		"constraining" : null,
+		"rueid" : 305,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Longemale",
+		"id" : 306,
+		"code" : 306,
+		"constraining" : null,
+		"rueid" : 306,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sous les Monts",
+		"id" : 307,
+		"code" : 307,
+		"constraining" : null,
+		"rueid" : 307,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Grande-Côte-de-Sermuz",
+		"id" : 308,
+		"code" : 308,
+		"constraining" : null,
+		"rueid" : 308,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Champ-des-Mottes",
+		"id" : 309,
+		"code" : 309,
+		"constraining" : null,
+		"rueid" : 309,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sur Châtillon",
+		"id" : 310,
+		"code" : 310,
+		"constraining" : null,
+		"rueid" : 310,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "En Champ-Paccot",
+		"id" : 311,
+		"code" : 311,
+		"constraining" : null,
+		"rueid" : 311,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sur Corneau",
+		"id" : 312,
+		"code" : 312,
+		"constraining" : null,
+		"rueid" : 312,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Les Combes",
+		"id" : 313,
+		"code" : 313,
+		"constraining" : null,
+		"rueid" : 313,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Derrière-la-Cure",
+		"id" : 314,
+		"code" : 314,
+		"constraining" : null,
+		"rueid" : 314,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Les Sauges",
+		"id" : 315,
+		"code" : 315,
+		"constraining" : null,
+		"rueid" : 315,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Maupas",
+		"id" : 316,
+		"code" : 316,
+		"constraining" : null,
+		"rueid" : 316,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Les Chaumilles",
+		"id" : 317,
+		"code" : 317,
+		"constraining" : null,
+		"rueid" : 317,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Trésil",
+		"id" : 318,
+		"code" : 318,
+		"constraining" : null,
+		"rueid" : 318,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bosseney",
+		"id" : 319,
+		"code" : 319,
+		"constraining" : null,
+		"rueid" : 319,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Vigny",
+		"id" : 320,
+		"code" : 320,
+		"constraining" : null,
+		"rueid" : 320,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chapelle des Cygnes",
+		"id" : 574,
+		"code" : 574,
+		"constraining" : null,
+		"rueid" : 574,
+		"short_name" : "Cygnes"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Av. Haldimand",
+		"id" : 92,
+		"code" : 92,
+		"constraining" : null,
+		"rueid" : 92,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Quart. de la Prairie",
+		"id" : 167,
+		"code" : 167,
+		"constraining" : null,
+		"rueid" : 167,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Chèvre",
+		"id" : 43,
+		"code" : 43,
+		"constraining" : null,
+		"rueid" : 43,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Arsenal",
+		"id" : 9,
+		"code" : 9,
+		"constraining" : null,
+		"rueid" : 9,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc Piguet",
+		"id" : 332,
+		"code" : 332,
+		"constraining" : null,
+		"rueid" : 332,
+		"short_name" : "Piguet"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc des Cygnes",
+		"id" : 335,
+		"code" : 335,
+		"constraining" : null,
+		"rueid" : 335,
+		"short_name" : "Cygnes"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc du Mujon",
+		"id" : 337,
+		"code" : 337,
+		"constraining" : null,
+		"rueid" : 337,
+		"short_name" : "Mujon"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc des Isles",
+		"id" : 338,
+		"code" : 338,
+		"constraining" : null,
+		"rueid" : 338,
+		"short_name" : "Isles"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc des Casernes",
+		"id" : 339,
+		"code" : 339,
+		"constraining" : null,
+		"rueid" : 339,
+		"short_name" : "Casernes"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc de Bullet",
+		"id" : 342,
+		"code" : 342,
+		"constraining" : null,
+		"rueid" : 342,
+		"short_name" : "Bullet"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Esplanade du Château",
+		"id" : 344,
+		"code" : 344,
+		"constraining" : null,
+		"rueid" : 344,
+		"short_name" : "Château"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Place du Sept Février",
+		"id" : 346,
+		"code" : 346,
+		"constraining" : null,
+		"rueid" : 346,
+		"short_name" : "Février"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Benno-Besson",
+		"id" : 353,
+		"code" : 353,
+		"constraining" : null,
+		"rueid" : 353,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège Pestalozzi",
+		"id" : 354,
+		"code" : 354,
+		"constraining" : null,
+		"rueid" : 354,
+		"short_name" : "Pestalozzi"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège des Rives",
+		"id" : 355,
+		"code" : 355,
+		"constraining" : null,
+		"rueid" : 355,
+		"short_name" : "Rives"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège Léon-Michaud",
+		"id" : 356,
+		"code" : 356,
+		"constraining" : null,
+		"rueid" : 356,
+		"short_name" : "Léon-Michaud"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège des Cygnes",
+		"id" : 361,
+		"code" : 361,
+		"constraining" : null,
+		"rueid" : 361,
+		"short_name" : "Cygnes"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collèges des Jordils",
+		"id" : 364,
+		"code" : 364,
+		"constraining" : null,
+		"rueid" : 364,
+		"short_name" : "Jordils"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège Pré-du-canal",
+		"id" : 362,
+		"code" : 362,
+		"constraining" : null,
+		"rueid" : 362,
+		"short_name" : "Pré-du-Canal"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "CPNV",
+		"id" : 363,
+		"code" : 363,
+		"constraining" : null,
+		"rueid" : 363,
+		"short_name" : "CPNV"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chemin de Collesano",
+		"id" : 371,
+		"code" : 371,
+		"constraining" : null,
+		"rueid" : 371,
+		"short_name" : "Collesano"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège de Fontenay",
+		"id" : 370,
+		"code" : 370,
+		"constraining" : null,
+		"rueid" : 370,
+		"short_name" : "Fontenay"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège de la Villette",
+		"id" : 368,
+		"code" : 368,
+		"constraining" : null,
+		"rueid" : 368,
+		"short_name" : "Villette"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège des Cheminets",
+		"id" : 369,
+		"code" : 369,
+		"constraining" : null,
+		"rueid" : 369,
+		"short_name" : "Cheminets"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Canal Oriental",
+		"id" : 293,
+		"code" : 293,
+		"constraining" : null,
+		"rueid" : 293,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "La Thièle",
+		"id" : 292,
+		"code" : 292,
+		"constraining" : null,
+		"rueid" : 292,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Le Buron",
+		"id" : 294,
+		"code" : 294,
+		"constraining" : null,
+		"rueid" : 294,
+		"short_name" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Canal Occidental",
+		"id" : 526,
+		"code" : 526,
+		"constraining" : null,
+		"rueid" : 526,
+		"short_name" : "Occidental"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Eglise de Fontenay",
+		"id" : 572,
+		"code" : 572,
+		"constraining" : null,
+		"rueid" : 572,
+		"short_name" : "Fontenay"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Eglise de la Maison-Rouge",
+		"id" : 573,
+		"code" : 573,
+		"constraining" : null,
+		"rueid" : 573,
+		"short_name" : "Maison-Rouge"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rives du Lac",
+		"id" : 575,
+		"code" : 575,
+		"constraining" : null,
+		"rueid" : 575,
+		"short_name" : "Lac"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Promenade du Port des Iris",
+		"id" : 576,
+		"code" : 576,
+		"constraining" : null,
+		"rueid" : 576,
+		"short_name" : "Iris"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Camping des Iris",
+		"id" : 577,
+		"code" : 577,
+		"constraining" : null,
+		"rueid" : 577,
+		"short_name" : "Iris"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cimetière",
+		"id" : 578,
+		"code" : 578,
+		"constraining" : null,
+		"rueid" : 578,
+		"short_name" : "Cimetière"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Piscine municipale",
+		"id" : 579,
+		"code" : 579,
+		"constraining" : null,
+		"rueid" : 579,
+		"short_name" : "Piscine"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parking de la Plage",
+		"id" : 580,
+		"code" : 580,
+		"constraining" : null,
+		"rueid" : 580,
+		"short_name" : "Plage"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prom. Auguste-Fallet",
+		"id" : 12,
+		"code" : 12,
+		"constraining" : null,
+		"rueid" : 12,
+		"short_name" : "Auguste-Fallet"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue du Châtelard",
+		"id" : 40,
+		"code" : 40,
+		"constraining" : null,
+		"rueid" : 40,
+		"short_name" : "Châtelard"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Pestalozzi",
+		"id" : 152,
+		"code" : 152,
+		"constraining" : null,
+		"rueid" : 152,
+		"short_name" : "Pestalozzi"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc d'Entremonts",
+		"id" : 331,
+		"code" : 331,
+		"constraining" : null,
+		"rueid" : 331,
+		"short_name" : "Entremonts"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc des Quatre-Marronniers",
+		"id" : 333,
+		"code" : 333,
+		"constraining" : null,
+		"rueid" : 333,
+		"short_name" : "Quatre-Marronniers"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue Mileva-Einstein-Maric",
+		"id" : 334,
+		"code" : 334,
+		"constraining" : null,
+		"rueid" : 334,
+		"short_name" : "Mivela-Einstein-Maric"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de l'Innovation",
+		"id" : 336,
+		"code" : 336,
+		"constraining" : null,
+		"rueid" : 336,
+		"short_name" : "Innovation"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc de Roger-de-Guimps",
+		"id" : 340,
+		"code" : 340,
+		"constraining" : null,
+		"rueid" : 340,
+		"short_name" : "Roger-de-Guimps"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc de Pierre-de-Savoie",
+		"id" : 345,
+		"code" : 345,
+		"constraining" : null,
+		"rueid" : 345,
+		"short_name" : "Pierre-de-Savoie"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Chèvre",
+		"id" : 561,
+		"code" : 561,
+		"constraining" : null,
+		"rueid" : 561,
+		"short_name" : "Chèvre"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Buron",
+		"id" : 562,
+		"code" : 562,
+		"constraining" : null,
+		"rueid" : 562,
+		"short_name" : "Buron"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc du Castrum",
+		"id" : 568,
+		"code" : 568,
+		"constraining" : null,
+		"rueid" : 568,
+		"short_name" : "Castrum"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chemin sur Thélaz",
+		"id" : 569,
+		"code" : 569,
+		"constraining" : null,
+		"rueid" : 569,
+		"short_name" : "Thélaz"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parking de l'Ancienne-Douane",
+		"id" : 349,
+		"code" : 349,
+		"constraining" : null,
+		"rueid" : 349,
+		"short_name" : "Ancienne-Douane"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parking du Midi",
+		"id" : 350,
+		"code" : 350,
+		"constraining" : null,
+		"rueid" : 350,
+		"short_name" : "Midi"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Jardin du Coeur",
+		"id" : 351,
+		"code" : 351,
+		"constraining" : null,
+		"rueid" : 351,
+		"short_name" : "Coeur"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège de Montagny",
+		"id" : 357,
+		"code" : 357,
+		"constraining" : null,
+		"rueid" : 357,
+		"short_name" : "Montagny"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège Pierre-de-Savoie",
+		"id" : 358,
+		"code" : 358,
+		"constraining" : null,
+		"rueid" : 358,
+		"short_name" : "Pierre-de-Savoie"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège de la Place d'Armes",
+		"id" : 359,
+		"code" : 359,
+		"constraining" : null,
+		"rueid" : 359,
+		"short_name" : "Place d'Armes"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège de la Passerelle",
+		"id" : 360,
+		"code" : 360,
+		"constraining" : null,
+		"rueid" : 360,
+		"short_name" : "Passerelle"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "La Plage",
+		"id" : 567,
+		"code" : 567,
+		"constraining" : null,
+		"rueid" : 567,
+		"short_name" : "Plage"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Central Parc",
+		"id" : 581,
+		"code" : 581,
+		"constraining" : null,
+		"rueid" : 581,
+		"short_name" : "Central"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Collège des Isles",
+		"id" : 582,
+		"code" : 582,
+		"constraining" : null,
+		"rueid" : 582,
+		"short_name" : "Isles"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parc de la Maladaire",
+		"id" : 583,
+		"code" : 583,
+		"constraining" : null,
+		"rueid" : 583,
+		"short_name" : "Maladaire"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. du Saut",
+		"id" : 584,
+		"code" : 584,
+		"constraining" : null,
+		"rueid" : 584,
+		"short_name" : "Saut"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ch. de la Grève-de-Clendy",
+		"id" : 91,
+		"code" : 91,
+		"constraining" : null,
+		"rueid" : 91,
+		"short_name" : "Grève"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rue de Clendy",
+		"id" : 47,
+		"code" : 47,
+		"constraining" : null,
+		"rueid" : 47,
+		"short_name" : "Clendy"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chemin de la Petite-Thoile",
+		"id" : 586,
+		"code" : 586,
+		"constraining" : null,
+		"rueid" : 586,
+		"short_name" : "Petite-Thoile"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Canal des Anglais",
+		"id" : 587,
+		"code" : 587,
+		"constraining" : null,
+		"rueid" : 587,
+		"short_name" : "Anglais"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Stade Municipal",
+		"id" : 588,
+		"code" : 588,
+		"constraining" : null,
+		"rueid" : 588,
+		"short_name" : "Municipal"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "STEP",
+		"id" : 589,
+		"code" : 589,
+		"constraining" : null,
+		"rueid" : 589,
+		"short_name" : "STEP"
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "La Marive",
+		"id" : 590,
+		"code" : 590,
+		"constraining" : null,
+		"rueid" : 590,
+		"short_name" : "Marive"
+	}
+]

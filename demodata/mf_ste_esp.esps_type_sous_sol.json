@@ -1,0 +1,22 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "inconnu",
+		"id" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Fosse d'arbre",
+		"id" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pleine terre",
+		"id" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bac",
+		"id" : 3
+	}
+]

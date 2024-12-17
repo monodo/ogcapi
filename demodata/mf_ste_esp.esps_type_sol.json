@@ -1,0 +1,37 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "inconnu",
+		"id" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Entourage d'arbre, grille",
+		"id" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Couvre-sols",
+		"id" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gravier, stabilisé",
+		"id" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Revêtement drainant",
+		"id" : 3
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Revêtement impermerméable",
+		"id" : 4
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bande herbeuse",
+		"id" : 5
+	}
+]

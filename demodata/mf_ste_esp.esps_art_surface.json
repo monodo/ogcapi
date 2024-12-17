@@ -1,0 +1,107 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Inconnu",
+		"id" : 1,
+		"labeltext" : "?",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Zone boisée",
+		"id" : 4,
+		"labeltext" : "zb",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Potager",
+		"id" : 8,
+		"labeltext" : "p",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Biodiversité",
+		"id" : 9,
+		"labeltext" : "bio",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbustes et couvre-sol",
+		"id" : 5,
+		"labeltext" : "aci",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Haie",
+		"id" : 6,
+		"labeltext" : "ht",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Massif",
+		"id" : 7,
+		"labeltext" : "mo",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prairie",
+		"id" : 10,
+		"labeltext" : "p",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Revêtement",
+		"id" : 12,
+		"labeltext" : "ri",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Plan d'eau",
+		"id" : 13,
+		"labeltext" : "pe",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Construction",
+		"id" : 14,
+		"labeltext" : "con",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gazon",
+		"id" : 11,
+		"labeltext" : "gz",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Toiture et mur végétalisé",
+		"id" : 15,
+		"labeltext" : "tv",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Divers",
+		"id" : 17,
+		"labeltext" : "div",
+		"keep" : true
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "DDP",
+		"id" : 16,
+		"labeltext" : "ddp",
+		"keep" : true
+	}
+]

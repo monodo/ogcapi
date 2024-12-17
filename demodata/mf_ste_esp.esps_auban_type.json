@@ -1,0 +1,27 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "inconnu",
+		"id" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "statique",
+		"id" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "dynamique",
+		"id" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "statique/dynamique",
+		"id" : 3
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "semi-dynamique",
+		"id" : 4
+	}
+]

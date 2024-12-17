@@ -1,0 +1,72 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Inconnu",
+		"id" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Blessure",
+		"id" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Déperissement",
+		"id" : 3
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Maladie",
+		"id" : 4
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Champignon",
+		"id" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pourriture",
+		"id" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Penché",
+		"id" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Fourche",
+		"id" : 8
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Protection",
+		"id" : 9
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Biodiversité",
+		"id" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Taille",
+		"id" : 11
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gabarit",
+		"id" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Avec demande d'abattage",
+		"id" : 13
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sans demande d'abattage",
+		"id" : 14
+	}
+]

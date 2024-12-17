@@ -1,0 +1,800 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "cultivar test 2",
+		"id" : 2,
+		"esps_subart_arbre_fkey" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Test",
+		"id" : 45345637,
+		"esps_subart_arbre_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tetrarosa",
+		"id" : 45345638,
+		"esps_subart_arbre_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Frans Fontaine",
+		"id" : 45345639,
+		"esps_subart_arbre_fkey" : 332
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune à Miel",
+		"id" : 3,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune Abricot",
+		"id" : 4,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune de Villars-Burquin",
+		"id" : 5,
+		"esps_subart_arbre_fkey" : 1110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune Mirabelle d'Automne",
+		"id" : 6,
+		"esps_subart_arbre_fkey" : 1108
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise à l'Once",
+		"id" : 7,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Griotte Berger",
+		"id" : 8,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Noire à la Grappe",
+		"id" : 9,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Noire de Chavannes",
+		"id" : 10,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Noire de Corcelles",
+		"id" : 11,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Péquegnette",
+		"id" : 12,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Rouge de Gollion",
+		"id" : 13,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Coing Poire",
+		"id" : 14,
+		"esps_subart_arbre_fkey" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Bellexime",
+		"id" : 15,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Bergamote de Ballaigues",
+		"id" : 16,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Beurrée grise",
+		"id" : 17,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Collet",
+		"id" : 18,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Cuisse-Dame",
+		"id" : 19,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire d'Orient",
+		"id" : 20,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Fondante des Bois",
+		"id" : 21,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Rosalet",
+		"id" : 22,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Sanguinole",
+		"id" : 23,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Sept-en-Gueule",
+		"id" : 24,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme-Fraise",
+		"id" : 25,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Belle de Ballaigues",
+		"id" : 26,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Belle Fille",
+		"id" : 27,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Bovarde tardive",
+		"id" : 28,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Citron d'Hiver",
+		"id" : 29,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Court-Pendu",
+		"id" : 30,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Cuisinière",
+		"id" : 31,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme de Fer",
+		"id" : 32,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Normande",
+		"id" : 33,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Reinette grise vaudoise",
+		"id" : 34,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Dodoens",
+		"id" : 35,
+		"esps_subart_arbre_fkey" : 2004
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Granny Smith",
+		"id" : 36,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Idared",
+		"id" : 37,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bon chrétien Williams",
+		"id" : 38,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Crimson King",
+		"id" : 40,
+		"esps_subart_arbre_fkey" : 103
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Mirabelle de Nancy",
+		"id" : 42,
+		"esps_subart_arbre_fkey" : 1108
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Griotte Montmorency",
+		"id" : 43,
+		"esps_subart_arbre_fkey" : 1114
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Bigarreau Burlat",
+		"id" : 44,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune Bérudge",
+		"id" : 45,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pruneau de Bâle",
+		"id" : 46,
+		"esps_subart_arbre_fkey" : 1110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Coing ‘Géant de Vranja’",
+		"id" : 47,
+		"esps_subart_arbre_fkey" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Boskoop Rouge",
+		"id" : 48,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Cox Orange",
+		"id" : 49,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pommier sauvage",
+		"id" : 50,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme ‘Florina’",
+		"id" : 51,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme ‘Resi’",
+		"id" : 52,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire ‘Harrow sweet’",
+		"id" : 53,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire ‘Curé’",
+		"id" : 54,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Vallis Clausa",
+		"id" : 57,
+		"esps_subart_arbre_fkey" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hayward femelle",
+		"id" : 58,
+		"esps_subart_arbre_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Kiwigold femelle",
+		"id" : 59,
+		"esps_subart_arbre_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Matua mâle",
+		"id" : 60,
+		"esps_subart_arbre_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Glauca",
+		"id" : 61,
+		"esps_subart_arbre_fkey" : 53
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable de Colchide",
+		"id" : 62,
+		"esps_subart_arbre_fkey" : 114
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Elsrijk",
+		"id" : 63,
+		"esps_subart_arbre_fkey" : 101
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise ‘Schaenburger’",
+		"id" : 56,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Blanche",
+		"id" : 45345640,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Greffion rouge",
+		"id" : 45345641,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Miel",
+		"id" : 45345642,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Rouge de Russy",
+		"id" : 45345643,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Coing Champion",
+		"id" : 45345644,
+		"esps_subart_arbre_fkey" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Conférence",
+		"id" : 39,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire à Miel",
+		"id" : 45345645,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Beurré d'Amanlis",
+		"id" : 45345646,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire de Suisse",
+		"id" : 45345647,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Cannepire",
+		"id" : 45345648,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Cent-grappes rouge",
+		"id" : 45345649,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Crasane",
+		"id" : 45345650,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Culotte suisse",
+		"id" : 45345651,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Guertelet",
+		"id" : 45345652,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Olivette",
+		"id" : 45345653,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Rosselet",
+		"id" : 45345654,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Rouge",
+		"id" : 45345655,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Sept-en-Gueule",
+		"id" : 45345656,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme à beignet",
+		"id" : 45345657,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme à Miel",
+		"id" : 45345658,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Tricolor",
+		"id" : 45345659,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Belle de Vaumarcus",
+		"id" : 45345660,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Blanchette",
+		"id" : 45345661,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Botset",
+		"id" : 45345662,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Bovarde",
+		"id" : 45345663,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme chasseur de Menznau",
+		"id" : 45345664,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Châtagne",
+		"id" : 45345665,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Duchesse",
+		"id" : 45345666,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Reinette de Chevroux",
+		"id" : 45345667,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Rose",
+		"id" : 45345668,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune-Pêche",
+		"id" : 45345669,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune Andrière",
+		"id" : 45345670,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune de Vully",
+		"id" : 45345671,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire d'oeuf",
+		"id" : 64,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Laciniata",
+		"id" : 65,
+		"esps_subart_arbre_fkey" : 262
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Skyline",
+		"id" : 66,
+		"esps_subart_arbre_fkey" : 632
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sunburst",
+		"id" : 67,
+		"esps_subart_arbre_fkey" : 632
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Shademaster",
+		"id" : 68,
+		"esps_subart_arbre_fkey" : 632
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cépage rouge",
+		"id" : 69,
+		"esps_subart_arbre_fkey" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cépage blanc",
+		"id" : 70,
+		"esps_subart_arbre_fkey" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pleniflora",
+		"id" : 71,
+		"esps_subart_arbre_fkey" : 21
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Jelena",
+		"id" : 72,
+		"esps_subart_arbre_fkey" : 22
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rosabella",
+		"id" : 73,
+		"esps_subart_arbre_fkey" : 23
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Coccinea",
+		"id" : 74,
+		"esps_subart_arbre_fkey" : 661
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Griotte de la Toussaint",
+		"id" : 75,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Melise",
+		"id" : 76,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Noire d'Etoy",
+		"id" : 77,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Noire de Bière",
+		"id" : 78,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerise Printanière",
+		"id" : 79,
+		"esps_subart_arbre_fkey" : 1113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Cuisinière",
+		"id" : 80,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Gris Chollet",
+		"id" : 81,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire la Fribourgeoise",
+		"id" : 82,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Petou",
+		"id" : 83,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poire Piâtè",
+		"id" : 84,
+		"esps_subart_arbre_fkey" : 1131
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Caramel",
+		"id" : 85,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Douce blanche de Romont",
+		"id" : 86,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Douce de Lusdorf",
+		"id" : 87,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Douce jaune",
+		"id" : 88,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pomme Françoise",
+		"id" : 89,
+		"esps_subart_arbre_fkey" : 731
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune Bacon",
+		"id" : 90,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune de la Vallée de Joux",
+		"id" : 91,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune de Romairon",
+		"id" : 92,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune Longue-Douce",
+		"id" : 93,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pruneau Blanc",
+		"id" : 94,
+		"esps_subart_arbre_fkey" : 1110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pruneau de Chézard",
+		"id" : 95,
+		"esps_subart_arbre_fkey" : 1110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pruneau ‘Fellenberg’ hatif",
+		"id" : 55,
+		"esps_subart_arbre_fkey" : 1110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pruneau de Saint-Aubin",
+		"id" : 45345672,
+		"esps_subart_arbre_fkey" : 1110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pruneau du Flon",
+		"id" : 45345673,
+		"esps_subart_arbre_fkey" : 1110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Schwedleri",
+		"id" : 41,
+		"esps_subart_arbre_fkey" : 102
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prune Reine-Claude",
+		"id" : 96,
+		"esps_subart_arbre_fkey" : 1104
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Greenspire",
+		"id" : 97,
+		"esps_subart_arbre_fkey" : 1701
+	}
+]

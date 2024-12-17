@@ -1,0 +1,17 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "inconnu",
+		"id" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "automatique",
+		"id" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "manuel",
+		"id" : 2
+	}
+]

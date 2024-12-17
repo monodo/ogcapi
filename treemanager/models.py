@@ -18,10 +18,10 @@ from django_oapif.decorators import register_oapif_viewset
 @register_oapif_viewset()
 class EspArbre(models.Model):
     art = models.ForeignKey(
-        "EspsArtArbre", models.DO_NOTHING, db_column="art", blank=True, null=True
+        "TypeArtArbre", models.DO_NOTHING, db_column="art", blank=True, null=True
     )
     art_subart = models.ForeignKey(
-        "EspsSubartArbre",
+        "TypeSubartArbre",
         models.DO_NOTHING,
         db_column="art_subart",
         blank=True,
@@ -32,33 +32,31 @@ class EspArbre(models.Model):
     diam_couronne = models.FloatField(blank=True, null=True)
     rayon_couronne = models.FloatField(blank=True, null=True)
     rayon_tronc = models.FloatField(blank=True, null=True)
-    rue = models.ForeignKey(
-        "EspsRue", models.DO_NOTHING, db_column="rue", blank=True, null=True
-    )
+
     arborisation = models.ForeignKey(
-        "EspsArborisation",
+        "TypeArborisation",
         models.DO_NOTHING,
         db_column="arborisation",
         blank=True,
         null=True,
     )
     port = models.ForeignKey(
-        "EspsPort", models.DO_NOTHING, db_column="port", blank=True, null=True
+        "TypePort", models.DO_NOTHING, db_column="port", blank=True, null=True
     )
     hauteur_arbre = models.FloatField(blank=True, null=True)
     hauteur_tronc = models.FloatField(blank=True, null=True)
     type_sol = models.ForeignKey(
-        "EspsTypeSol", models.DO_NOTHING, db_column="type_sol", blank=True, null=True
+        "TypeTypeSol", models.DO_NOTHING, db_column="type_sol", blank=True, null=True
     )
     type_sous_sol = models.ForeignKey(
-        "EspsTypeSousSol",
+        "TypeTypeSousSol",
         models.DO_NOTHING,
         db_column="type_sous_sol",
         blank=True,
         null=True,
     )
     concept_aggloy = models.ForeignKey(
-        "EspsConceptAggloy",
+        "TypeConceptAggloy",
         models.DO_NOTHING,
         db_column="concept_aggloy",
         blank=True,
@@ -66,7 +64,7 @@ class EspArbre(models.Model):
     )
     remarques = models.CharField(max_length=255, blank=True, null=True)
     localisation = models.ForeignKey(
-        "EspsLocalisation",
+        "TypeLocalisation",
         models.DO_NOTHING,
         db_column="localisation",
         blank=True,
@@ -74,7 +72,7 @@ class EspArbre(models.Model):
     )
     numfiche = models.IntegerField(blank=True, null=True)
     auban_type = models.ForeignKey(
-        "EspsAubanType",
+        "TypeAubanType",
         models.DO_NOTHING,
         db_column="auban_type",
         blank=True,
@@ -82,43 +80,28 @@ class EspArbre(models.Model):
     )
     auban_nombre = models.IntegerField(blank=True, null=True)
     arrosage = models.ForeignKey(
-        "EspsArrosage", models.DO_NOTHING, db_column="arrosage", blank=True, null=True
+        "TypeArrosage", models.DO_NOTHING, db_column="arrosage", blank=True, null=True
     )
     date_plantation = models.DateField(blank=True, null=True)
     date_abattage = models.DateField(blank=True, null=True)
     date_auban = models.DateField(blank=True, null=True)
-    geom = geomodels.MultiPointField(_("geom"), null=True, srid=2056)
     cultivar_id = models.IntegerField(blank=True, null=True)
     photo = models.TextField(blank=True, null=True, db_comment="1024")
     mf_last_edited_user = models.CharField(max_length=255, blank=True, null=True)
     created_at = models.DateTimeField(blank=True, null=True)
     updated_at = models.DateTimeField(blank=True, null=True)
     fk_protection_castor = models.ForeignKey(
-        "EspsProtectionCastor",
+        "TypeProtectionCastor",
         models.DO_NOTHING,
         db_column="fk_protection_castor",
         blank=True,
         null=True,
     )
-    fk_control_2023 = models.ForeignKey(
-        "VlSteEspControl2023",
-        models.DO_NOTHING,
-        db_column="fk_control_2023",
-        blank=True,
-        null=True,
-    )
     remarque_ctrl_annuel = models.CharField(max_length=255, blank=True, null=True)
     fk_arbre_remarquable = models.ForeignKey(
-        "VlSteEspArbreRemarquable",
+        "TypeSteEspArbreRemarquable",
         models.DO_NOTHING,
         db_column="fk_arbre_remarquable",
-        blank=True,
-        null=True,
-    )
-    fk_control_2024 = models.ForeignKey(
-        "VlSteEspControl2024",
-        models.DO_NOTHING,
-        db_column="fk_control_2024",
         blank=True,
         null=True,
     )
@@ -126,221 +109,159 @@ class EspArbre(models.Model):
     arbre_commemoratif = models.BooleanField(blank=True, null=True)
     public_domain = models.BooleanField(blank=True, null=True)
     fk_arbre_commemoratif = models.ForeignKey(
-        "VlSteEspArbreCommemoratif",
+        "TypeSteEspArbreCommemoratif",
         models.DO_NOTHING,
         db_column="fk_arbre_commemoratif",
         blank=True,
         null=True,
     )
     fk_public_domain = models.ForeignKey(
-        "VlSteEspPublicDomain",
+        "TypeSteEspPublicDomain",
         models.DO_NOTHING,
         db_column="fk_public_domain",
         blank=True,
         null=True,
     )
     date_remplacement = models.DateField(blank=True, null=True)
-
-    class Meta:
-        db_table = "esp_arbre"
+    geom = geomodels.MultiPointField(_("geom"), null=True, srid=2056)
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsArborisation(models.Model):
+class TypeArborisation(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
 
-    class Meta:
-
-        db_table = "esps_arborisation"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsArrosage(models.Model):
+class TypeArrosage(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
 
-    class Meta:
-
-        db_table = "esps_arrosage"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsArtArbre(models.Model):
+class TypeArtArbre(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigAutoField(primary_key=True)
 
-    class Meta:
-
-        db_table = "esps_art_arbre"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsArtSurface(models.Model):
+class TypeArtSurface(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigAutoField(primary_key=True)
     labeltext = models.CharField(blank=True, null=True)
     keep = models.BooleanField(blank=True, null=True)
 
-    class Meta:
-
-        db_table = "esps_art_surface"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsAubanType(models.Model):
+class TypeAubanType(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
 
-    class Meta:
-
-        db_table = "esps_auban_type"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsConceptAggloy(models.Model):
+class TypeConceptAggloy(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
 
-    class Meta:
-
-        db_table = "esps_concept_aggloy"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsCultivar(models.Model):
+class TypeCultivar(models.Model):
     name = models.CharField(max_length=255)
-    esps_subart_arbre_fkey = models.ForeignKey(
-        "EspsSubartArbre",
+    Type_subart_arbre_fkey = models.ForeignKey(
+        "TypeSubartArbre",
         models.DO_NOTHING,
-        db_column="esps_subart_arbre_fkey",
+        db_column="Type_subart_arbre_fkey",
         blank=True,
         null=True,
     )
 
-    class Meta:
-
-        db_table = "esps_cultivar"
-
-
-@register_oapif_viewset(geom_field=None)
-class EspsLocalisation(models.Model):
-    name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
-
-    class Meta:
-
-        db_table = "esps_localisation"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsPort(models.Model):
+class TypeLocalisation(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
 
-    class Meta:
-
-        db_table = "esps_port"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsProtectionCastor(models.Model):
-    id = models.IntegerField(primary_key=True)
+class TypePort(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
 
-    class Meta:
-
-        db_table = "esps_protection_castor"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsRue(models.Model):
-    code = models.IntegerField(blank=True, null=True)
+class TypeProtectionCastor(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    constraining = models.IntegerField(blank=True, null=True)
-    rueid = models.SmallIntegerField(blank=True, null=True)
-    short_name = models.CharField(max_length=255, blank=True, null=True)
 
-    class Meta:
-
-        db_table = "esps_rue"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsSubartArbre(models.Model):
+class TypeSubartArbre(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigAutoField(primary_key=True)
     gn_description_custom = models.TextField(blank=True, null=True)
     art_fkey = models.ForeignKey(
-        EspsArtArbre, models.DO_NOTHING, db_column="art_fkey", blank=True, null=True
+        TypeArtArbre, models.DO_NOTHING, db_column="art_fkey", blank=True, null=True
     )
 
-    class Meta:
-
-        db_table = "esps_subart_arbre"
-
-
-@register_oapif_viewset(geom_field=None)
-class EspsTypeSol(models.Model):
-    name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
-
-    class Meta:
-
-        db_table = "esps_type_sol"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class EspsTypeSousSol(models.Model):
-    name = models.CharField(max_length=255, blank=True, null=True)
-    id = models.BigIntegerField(primary_key=True)
-
-    class Meta:
-
-        db_table = "esps_type_sous_sol"
-
-
-@register_oapif_viewset(geom_field=None)
-class VlSteEspArbreCommemoratif(models.Model):
+class TypeTypeSol(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
 
-    class Meta:
-
-        db_table = "vl_ste_esp_arbre_commemoratif"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class VlSteEspArbreRemarquable(models.Model):
+class TypeTypeSousSol(models.Model):
+    name = models.CharField(max_length=255, blank=True, null=True)
+
+    def __str__(self):
+        return f"{self.id} - {self.name}"
+
+
+@register_oapif_viewset(geom_field=None)
+class TypeSteEspArbreCommemoratif(models.Model):
+    name = models.CharField(max_length=255, blank=True, null=True)
+
+    def __str__(self):
+        return f"{self.id} - {self.name}"
+
+
+@register_oapif_viewset(geom_field=None)
+class TypeSteEspArbreRemarquable(models.Model):
     name = models.CharField(max_length=25)
 
-    class Meta:
-
-        db_table = "vl_ste_esp_arbre_remarquable"
-
-
-@register_oapif_viewset(geom_field=None)
-class VlSteEspControl2023(models.Model):
-    name = models.CharField(max_length=255)
-
-    class Meta:
-
-        db_table = "vl_ste_esp_control_2023"
-        db_table_comment = "Valeurs controles arbres 2023"
+    def __str__(self):
+        return f"{self.id} - {self.name}"
 
 
 @register_oapif_viewset(geom_field=None)
-class VlSteEspControl2024(models.Model):
-    name = models.CharField(max_length=255)
-
-    class Meta:
-
-        db_table = "vl_ste_esp_control_2024"
-
-
-@register_oapif_viewset(geom_field=None)
-class VlSteEspPublicDomain(models.Model):
+class TypeSteEspPublicDomain(models.Model):
     name = models.CharField(max_length=255, blank=True, null=True)
 
-    class Meta:
-
-        db_table = "vl_ste_esp_public_domain"
+    def __str__(self):
+        return f"{self.id} - {self.name}"

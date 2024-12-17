@@ -1,0 +1,345 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gazon - bord de route",
+		"id" : 339,
+		"labeltext" : "gbr",
+		"fk_genre" : 11
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Inconnu",
+		"id" : 0,
+		"labeltext" : "?",
+		"fk_genre" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Zone boisée d'ornement",
+		"id" : 2,
+		"labeltext" : "zbo",
+		"fk_genre" : 4
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Zone boisée indigène",
+		"id" : 3,
+		"labeltext" : "zbi",
+		"fk_genre" : 4
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Zone boisée forestière",
+		"id" : 4,
+		"labeltext" : "zbf",
+		"fk_genre" : 4
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Zone boisée fruitière (verger)",
+		"id" : 5,
+		"labeltext" : "zbv",
+		"fk_genre" : 4
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Plantes annuelles",
+		"id" : 6,
+		"labeltext" : "pa",
+		"fk_genre" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Revêtement imperméable",
+		"id" : 7,
+		"labeltext" : "ri",
+		"fk_genre" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Revêtement perméable",
+		"id" : 8,
+		"labeltext" : "rp",
+		"fk_genre" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Revêtement synthétique",
+		"id" : 9,
+		"labeltext" : "rs",
+		"fk_genre" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chemins et places en grave",
+		"id" : 11,
+		"labeltext" : null,
+		"fk_genre" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbustes indigènes",
+		"id" : 31,
+		"labeltext" : "ai",
+		"fk_genre" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Couvre-sols indigènes",
+		"id" : 32,
+		"labeltext" : "csi",
+		"fk_genre" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbustes d'ornement",
+		"id" : 41,
+		"labeltext" : "ao",
+		"fk_genre" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Couvre-sols d'ornement",
+		"id" : 42,
+		"labeltext" : "cso",
+		"fk_genre" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Haie champêtre (indigène)",
+		"id" : 51,
+		"labeltext" : "hc",
+		"fk_genre" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Haie architecturée",
+		"id" : 52,
+		"labeltext" : "ha",
+		"fk_genre" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Haie vive d'ornement",
+		"id" : 53,
+		"labeltext" : "hvo",
+		"fk_genre" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Haie architecturée indigène",
+		"id" : 54,
+		"labeltext" : "hai",
+		"fk_genre" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rosiers",
+		"id" : 61,
+		"labeltext" : "rosi",
+		"fk_genre" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Vivaces",
+		"id" : 62,
+		"labeltext" : "vi",
+		"fk_genre" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rocaille",
+		"id" : 63,
+		"labeltext" : "ro",
+		"fk_genre" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Potager",
+		"id" : 71,
+		"labeltext" : "po",
+		"fk_genre" : 8
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Toiture végétalisée (extensive)",
+		"id" : 90,
+		"labeltext" : "tve",
+		"fk_genre" : 15
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prairie rudérale",
+		"id" : 322,
+		"labeltext" : "ps",
+		"fk_genre" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prairie humide, fauche standard (noues)",
+		"id" : 323,
+		"labeltext" : "ph",
+		"fk_genre" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prairie humide, fauche tardive (noues)",
+		"id" : 324,
+		"labeltext" : "ph",
+		"fk_genre" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prairie fleurie, fauche standard",
+		"id" : 325,
+		"labeltext" : "pf",
+		"fk_genre" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prairie fleurie, fauche tardive",
+		"id" : 326,
+		"labeltext" : "pf",
+		"fk_genre" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gazon",
+		"id" : 330,
+		"labeltext" : "gzn",
+		"fk_genre" : 11
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gazon fleuri",
+		"id" : 332,
+		"labeltext" : "gf",
+		"fk_genre" : 11
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gazon sport",
+		"id" : 343,
+		"labeltext" : "gs",
+		"fk_genre" : 11
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Zone SBP (agricole)",
+		"id" : 401,
+		"labeltext" : "spb",
+		"fk_genre" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bassin",
+		"id" : 661,
+		"labeltext" : "ba",
+		"fk_genre" : 13
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Fontaine",
+		"id" : 662,
+		"labeltext" : "fo",
+		"fk_genre" : 13
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Toiture végétalisée (intensive)",
+		"id" : 91,
+		"labeltext" : "tvi",
+		"fk_genre" : 15
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Escalier",
+		"id" : 16,
+		"labeltext" : "es",
+		"fk_genre" : 14
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Mur",
+		"id" : 15,
+		"labeltext" : "mu",
+		"fk_genre" : 14
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Micro-forêt",
+		"id" : 664,
+		"labeltext" : "mfo",
+		"fk_genre" : 4
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Mur végétalisé",
+		"id" : 665,
+		"labeltext" : "mve",
+		"fk_genre" : 15
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "DDP",
+		"id" : 666,
+		"labeltext" : "ddp",
+		"fk_genre" : 16
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Divers",
+		"id" : 667,
+		"labeltext" : "div",
+		"fk_genre" : 17
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prairie rudérale îlot",
+		"id" : 668,
+		"labeltext" : "pri",
+		"fk_genre" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Fleurs coupées",
+		"id" : 669,
+		"labeltext" : "flc",
+		"fk_genre" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sable",
+		"id" : 670,
+		"labeltext" : "sab",
+		"fk_genre" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cours d'eau",
+		"id" : 671,
+		"labeltext" : "cea",
+		"fk_genre" : 13
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pont/passerelle",
+		"id" : 672,
+		"labeltext" : "pon",
+		"fk_genre" : 14
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Copeaux",
+		"id" : 673,
+		"labeltext" : "cop",
+		"fk_genre" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Graviers",
+		"id" : 674,
+		"labeltext" : "gra",
+		"fk_genre" : 12
+	}
+]

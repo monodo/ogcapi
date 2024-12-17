@@ -1,0 +1,22 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "inconnu",
+		"id" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Solitaire",
+		"id" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Groupe",
+		"id" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Alignement",
+		"id" : 3
+	}
+]

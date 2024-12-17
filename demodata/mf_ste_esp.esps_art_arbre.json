@@ -1,0 +1,512 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Clematis",
+		"id" : 360
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Lonicera",
+		"id" : 370
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hedera",
+		"id" : 380
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Juniperus",
+		"id" : 1002
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Buxus",
+		"id" : 1003
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Morus",
+		"id" : 24
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Taxodium",
+		"id" : 1004
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ilex",
+		"id" : 1001
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Laurus",
+		"id" : 1005
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Osmanthus",
+		"id" : 1006
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Acer",
+		"id" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aesculus",
+		"id" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Betula",
+		"id" : 30
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Catalpa",
+		"id" : 40
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Fraxinus",
+		"id" : 60
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Platanus",
+		"id" : 90
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prunus",
+		"id" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Quercus",
+		"id" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Robinia",
+		"id" : 130
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Salix",
+		"id" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sorbus",
+		"id" : 160
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Populus",
+		"id" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tilia",
+		"id" : 170
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pinus",
+		"id" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cedrus",
+		"id" : 50
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ailanthus",
+		"id" : 23
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Alnus",
+		"id" : 26
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Carpinus",
+		"id" : 33
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Celtis",
+		"id" : 53
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cupressus",
+		"id" : 56
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Fagus",
+		"id" : 58
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Gleditsia",
+		"id" : 63
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Juglans",
+		"id" : 65
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Larix",
+		"id" : 67
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Liriodendron",
+		"id" : 72
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Metasequoia",
+		"id" : 74
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Picea",
+		"id" : 77
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tamarix",
+		"id" : 162
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Taxus",
+		"id" : 164
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tsuga",
+		"id" : 180
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pyrus",
+		"id" : 113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Malus",
+		"id" : 73
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Magnolia",
+		"id" : 71
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sequoiadendron",
+		"id" : 143
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ostrya",
+		"id" : 75
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Abies",
+		"id" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Corylus",
+		"id" : 54
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Castanea",
+		"id" : 37
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cercis",
+		"id" : 51
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Crataegus",
+		"id" : 55
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Nothofagus",
+		"id" : 76
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Paulownia",
+		"id" : 78
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ulmus",
+		"id" : 200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Zelkova",
+		"id" : 250
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Calocedrus",
+		"id" : 32
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chamaecyparis",
+		"id" : 52
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cupressocyparis",
+		"id" : 57
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ginkgo",
+		"id" : 61
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sequoia",
+		"id" : 145
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Thuja",
+		"id" : 189
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cydonia",
+		"id" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Trachycarpus",
+		"id" : 175
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cornus",
+		"id" : 301
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Amelanchier",
+		"id" : 28
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parrotia",
+		"id" : 79
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Lagerstroemia",
+		"id" : 66
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Philadelphus",
+		"id" : 81
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Syringa",
+		"id" : 161
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Albizia",
+		"id" : 25
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ribes",
+		"id" : 125
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poncirus",
+		"id" : 98
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ligustrum",
+		"id" : 68
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ficus",
+		"id" : 350
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Taxus Fastigiata ",
+		"id" : 302
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "AA - Inconnu",
+		"id" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Viburnum",
+		"id" : 1007
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sciadopitys",
+		"id" : 1008
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Davidia",
+		"id" : 1010
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Wisteria",
+		"id" : 1011
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Heptacodium",
+		"id" : 1012
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cercidiphyllum",
+		"id" : 1009
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Colutea",
+		"id" : 1200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Olea",
+		"id" : 1201
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sambucus",
+		"id" : 1202
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Acacia",
+		"id" : 1203
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Araucaria",
+		"id" : 1204
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Diospyros",
+		"id" : 1205
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pseudotaxus",
+		"id" : 1206
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pseudotsuga",
+		"id" : 1207
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cryptomeria",
+		"id" : 1013
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hippophae",
+		"id" : 64
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Liquidambar",
+		"id" : 70
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Eriobotrya",
+		"id" : 1208
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Actinidia",
+		"id" : 11
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Frangula ",
+		"id" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Rhamnus ",
+		"id" : 3
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Styphnolobium",
+		"id" : 150
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Koelreuteria",
+		"id" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Vitis",
+		"id" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Punica",
+		"id" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hamamelis",
+		"id" : 8
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Weigela",
+		"id" : 9
+	}
+]

@@ -1,0 +1,1801 @@
+[
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne pédonculé",
+		"id" : 1201,
+		"gn_description_custom" : "quercus robur",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cèdre de l'Himalaya",
+		"id" : 502,
+		"gn_description_custom" : "deodara",
+		"art_fkey" : 50
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cèdre du Liban",
+		"id" : 503,
+		"gn_description_custom" : "libani",
+		"art_fkey" : 50
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerisier du Japon à fleurs roses pâles",
+		"id" : 1103,
+		"gn_description_custom" : "serrulata 'Amanogawa'",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Charme commun",
+		"id" : 331,
+		"gn_description_custom" : "betulus",
+		"art_fkey" : 33
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Charme fastigié",
+		"id" : 332,
+		"gn_description_custom" : "betulus 'Fastigiata'",
+		"art_fkey" : 33
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Copalme",
+		"id" : 701,
+		"gn_description_custom" : "styraciflua",
+		"art_fkey" : 70
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès",
+		"id" : 561,
+		"gn_description_custom" : "arizonica 'Glauca'",
+		"art_fkey" : 56
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable blanc",
+		"id" : 107,
+		"gn_description_custom" : "saccharinum",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable boule",
+		"id" : 106,
+		"gn_description_custom" : "platanoides 'Globosum'",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable champêtre",
+		"id" : 101,
+		"gn_description_custom" : "campestre",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable d'Italie",
+		"id" : 105,
+		"gn_description_custom" : "opalus",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable plane",
+		"id" : 102,
+		"gn_description_custom" : "platanoides",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable sycomore",
+		"id" : 104,
+		"gn_description_custom" : "pseudoplatanus",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Frêne commun",
+		"id" : 601,
+		"gn_description_custom" : "excelsior",
+		"art_fkey" : 60
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hêtre pleureur",
+		"id" : 582,
+		"gn_description_custom" : "sylvatica 'Pendula'",
+		"art_fkey" : 58
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hêtre pourpre",
+		"id" : 581,
+		"gn_description_custom" : "sylvatica 'Atropunicea'",
+		"art_fkey" : 58
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "If commun",
+		"id" : 1641,
+		"gn_description_custom" : "baccata",
+		"art_fkey" : 164
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "inconnu",
+		"id" : 0,
+		"gn_description_custom" : "inconnu",
+		"art_fkey" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Magniolia hybride de Soulange",
+		"id" : 711,
+		"gn_description_custom" : "X soulangeana",
+		"art_fkey" : 71
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Marronnier rouge",
+		"id" : 202,
+		"gn_description_custom" : "X carnea 'Briotii'",
+		"art_fkey" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Mélèze",
+		"id" : 671,
+		"gn_description_custom" : "decidua",
+		"art_fkey" : 67
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Metasequoia",
+		"id" : 741,
+		"gn_description_custom" : "glyptostroboides",
+		"art_fkey" : 74
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Noyer noir",
+		"id" : 651,
+		"gn_description_custom" : "nigra",
+		"art_fkey" : 65
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Platane commun",
+		"id" : 901,
+		"gn_description_custom" : "X acerifolia",
+		"art_fkey" : 90
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Poirier",
+		"id" : 1131,
+		"gn_description_custom" : "communis (fruits)",
+		"art_fkey" : 113
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pommier",
+		"id" : 731,
+		"gn_description_custom" : "pumila (fruits)",
+		"art_fkey" : 73
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prunier à fleurs",
+		"id" : 1102,
+		"gn_description_custom" : "cerasifera",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prunier-cerise",
+		"id" : 1101,
+		"gn_description_custom" : "cerasifera 'Nigra'",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Robinier boule",
+		"id" : 1302,
+		"gn_description_custom" : "pseudoacacia 'Umbraculifera'",
+		"art_fkey" : 130
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Robinier faux-acacia",
+		"id" : 1301,
+		"gn_description_custom" : "pseudoacacia",
+		"art_fkey" : 130
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Séquoia géant",
+		"id" : 1431,
+		"gn_description_custom" : "giganteum",
+		"art_fkey" : 143
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sophora du Japon",
+		"id" : 1501,
+		"gn_description_custom" : "japonica",
+		"art_fkey" : 150
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sorbier des oiseleurs",
+		"id" : 1601,
+		"gn_description_custom" : "aucuparia",
+		"art_fkey" : 160
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tamaris",
+		"id" : 1621,
+		"gn_description_custom" : "ramosissima",
+		"art_fkey" : 162
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tilleul à grandes feuilles",
+		"id" : 1703,
+		"gn_description_custom" : "platyphyllos",
+		"art_fkey" : 170
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tilleul de Hongrie",
+		"id" : 1702,
+		"gn_description_custom" : "tomentosa",
+		"art_fkey" : 170
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tilleul à petites feuilles",
+		"id" : 1701,
+		"gn_description_custom" : "cordata",
+		"art_fkey" : 170
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tsuga",
+		"id" : 1801,
+		"gn_description_custom" : "canadensis",
+		"art_fkey" : 180
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tulipier de Virginie",
+		"id" : 721,
+		"gn_description_custom" : "tulipifera",
+		"art_fkey" : 72
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sorbier à larges feuilles",
+		"id" : 1602,
+		"gn_description_custom" : "latifolia",
+		"art_fkey" : 160
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Mûrier blanc",
+		"id" : 3518,
+		"gn_description_custom" : "Alba",
+		"art_fkey" : 24
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne à feuilles de Saule",
+		"id" : 3503,
+		"gn_description_custom" : "quercus phellos ",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne pédonculé fastigié",
+		"id" : 1202,
+		"gn_description_custom" : "quercus robur 'Fastigiata'",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne vert",
+		"id" : 3502,
+		"gn_description_custom" : "quercus ilex",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tilleul commun",
+		"id" : 1704,
+		"gn_description_custom" : "tilia × europaea",
+		"art_fkey" : 170
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Thuya de l'occident",
+		"id" : 1901,
+		"gn_description_custom" : "occidentalis",
+		"art_fkey" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Thuya d'orient",
+		"id" : 1902,
+		"gn_description_custom" : "orientalis",
+		"art_fkey" : 0
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne rouvre",
+		"id" : 3519,
+		"gn_description_custom" : "Patraea",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Frêne à fleurs",
+		"id" : 1008,
+		"gn_description_custom" : "fraxinus ornus",
+		"art_fkey" : 60
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Genévrier de virginie",
+		"id" : 1014,
+		"gn_description_custom" : "Virginiana",
+		"art_fkey" : 1002
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bouleau verruqueux",
+		"id" : 1010,
+		"gn_description_custom" : "Betula pendula",
+		"art_fkey" : 30
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Epicéa de Serbie",
+		"id" : 771,
+		"gn_description_custom" : "Omorika",
+		"art_fkey" : 77
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Marronnier commun",
+		"id" : 201,
+		"gn_description_custom" : "Hippocastanum",
+		"art_fkey" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ailante glanduleux",
+		"id" : 231,
+		"gn_description_custom" : "altissima",
+		"art_fkey" : 23
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aulne à feuille en cœur",
+		"id" : 261,
+		"gn_description_custom" : "cordata",
+		"art_fkey" : 26
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bouleau",
+		"id" : 301,
+		"gn_description_custom" : "pendula",
+		"art_fkey" : 30
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Catalpa commun",
+		"id" : 401,
+		"gn_description_custom" : "bignoioides",
+		"art_fkey" : 40
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cèdre bleu",
+		"id" : 501,
+		"gn_description_custom" : "atlantica 'Glauca'",
+		"art_fkey" : 50
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Charme-houblon",
+		"id" : 751,
+		"gn_description_custom" : "carpinifolia",
+		"art_fkey" : 75
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable colonnaire",
+		"id" : 109,
+		"gn_description_custom" : "platanoides 'Columnare'",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable sycomore 'Negenia'",
+		"id" : 111,
+		"gn_description_custom" : "pseudoplatanus 'Negenia'",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable argenté",
+		"id" : 113,
+		"gn_description_custom" : "saccharinum 'Wieri'",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aulne glutineux",
+		"id" : 262,
+		"gn_description_custom" : "glutinosa",
+		"art_fkey" : 26
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aulne de Spaeth",
+		"id" : 263,
+		"gn_description_custom" : "spaethii",
+		"art_fkey" : 26
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Châtaignier commun",
+		"id" : 371,
+		"gn_description_custom" : "sativa",
+		"art_fkey" : 37
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbre de Judée",
+		"id" : 511,
+		"gn_description_custom" : "siliquastrum",
+		"art_fkey" : 51
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Frêne pleureur",
+		"id" : 602,
+		"gn_description_custom" : "excelsior 'Pendula'",
+		"art_fkey" : 60
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hêtre commun",
+		"id" : 580,
+		"gn_description_custom" : "sylvatica",
+		"art_fkey" : 58
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Noyer commun",
+		"id" : 652,
+		"gn_description_custom" : "regia",
+		"art_fkey" : 65
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Magnolia à grandes fleurs",
+		"id" : 710,
+		"gn_description_custom" : "grandiflora",
+		"art_fkey" : 71
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Paulownia impérial",
+		"id" : 781,
+		"gn_description_custom" : "tomentosa",
+		"art_fkey" : 78
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tremble d'Europe",
+		"id" : 1004,
+		"gn_description_custom" : "tremula",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Merisier des oiseaux à fleurs doubles",
+		"id" : 1105,
+		"gn_description_custom" : "avium 'Plena'",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier euraméricain",
+		"id" : 1003,
+		"gn_description_custom" : "X euramericana",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin blanc du Japon",
+		"id" : 803,
+		"gn_description_custom" : "Parviflora",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin noir",
+		"id" : 801,
+		"gn_description_custom" : "Nigra",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin sylvestre",
+		"id" : 802,
+		"gn_description_custom" : "Sylvestris",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aubépine lisse",
+		"id" : 551,
+		"gn_description_custom" : "Laevigata",
+		"art_fkey" : 55
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Hêtre austral",
+		"id" : 761,
+		"gn_description_custom" : "Antarctica",
+		"art_fkey" : 76
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule blanc",
+		"id" : 1401,
+		"gn_description_custom" : "Salix alba",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerisier du Japon à fleurs roses",
+		"id" : 1106,
+		"gn_description_custom" : "serrulata 'kanzan'",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Robinier rose",
+		"id" : 1303,
+		"gn_description_custom" : "pseudoacacia 'Bessoniana'",
+		"art_fkey" : 130
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tilleul de Crimée",
+		"id" : 1706,
+		"gn_description_custom" : "europaea x 'Euchlora'",
+		"art_fkey" : 170
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orme champêtre",
+		"id" : 2001,
+		"gn_description_custom" : "minor",
+		"art_fkey" : 200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orme du Japon",
+		"id" : 2501,
+		"gn_description_custom" : "serrata",
+		"art_fkey" : 250
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Libocèdre panaché",
+		"id" : 321,
+		"gn_description_custom" : "decurrens 'Aureovariegata'",
+		"art_fkey" : 32
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès de Nootkta pleureur",
+		"id" : 521,
+		"gn_description_custom" : "nootkatensis 'Pendula'",
+		"art_fkey" : 52
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès de Leyland",
+		"id" : 571,
+		"gn_description_custom" : "X leylandii",
+		"art_fkey" : 57
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès d'Italie 'Stricta'",
+		"id" : 562,
+		"gn_description_custom" : "sempervirens 'Stricta'",
+		"art_fkey" : 56
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbre aux quarante écus",
+		"id" : 611,
+		"gn_description_custom" : "biloba",
+		"art_fkey" : 61
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Séquoia à feuilles d'if",
+		"id" : 1451,
+		"gn_description_custom" : "sempervirens",
+		"art_fkey" : 145
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Thuya géant",
+		"id" : 1891,
+		"gn_description_custom" : "plicata",
+		"art_fkey" : 189
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chamarcyparis hinoki faux-cyprès",
+		"id" : 1011,
+		"gn_description_custom" : "Chamaecyparis obtusa",
+		"art_fkey" : 52
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne rouge d'Amérique",
+		"id" : 1203,
+		"gn_description_custom" : "quercus rubra",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sapin de Nordmann",
+		"id" : 52,
+		"gn_description_custom" : "Nordmanniana",
+		"art_fkey" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sapin d'Andalousie",
+		"id" : 53,
+		"gn_description_custom" : "Pinsapo",
+		"art_fkey" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne chevelu",
+		"id" : 1200,
+		"gn_description_custom" : "quercus cerris",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tilleul d'Europe 'Pallida'",
+		"id" : 1707,
+		"gn_description_custom" : "tilia × europaea 'Pallida'",
+		"art_fkey" : 170
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Marronnier blanc à fleurs doubles",
+		"id" : 203,
+		"gn_description_custom" : "Hippocastanum 'Baumannii'",
+		"art_fkey" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Epicéa bleu",
+		"id" : 772,
+		"gn_description_custom" : "Pungens",
+		"art_fkey" : 77
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable trident",
+		"id" : 3506,
+		"gn_description_custom" : "buergerianum",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable de Montpellier",
+		"id" : 3507,
+		"gn_description_custom" : "monspessulanum ",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prunier",
+		"id" : 1104,
+		"gn_description_custom" : "domestica",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable japonais",
+		"id" : 1015,
+		"gn_description_custom" : "palmatum",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Noisetier de Byzance",
+		"id" : 542,
+		"gn_description_custom" : "Colurna",
+		"art_fkey" : 54
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier blanc",
+		"id" : 1000,
+		"gn_description_custom" : "Populus alba",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Epicéa commun",
+		"id" : 773,
+		"gn_description_custom" : "Abies",
+		"art_fkey" : 77
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Epicéa noir",
+		"id" : 774,
+		"gn_description_custom" : "Mariana",
+		"art_fkey" : 77
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sapin blanc",
+		"id" : 51,
+		"gn_description_custom" : "Abies alba",
+		"art_fkey" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chèvrefeuille grimpant Dropmore Scarlet",
+		"id" : 3508,
+		"gn_description_custom" : "Lonicera x brownii ‘Dropmore Scarlet’ ",
+		"art_fkey" : 370
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Lierre d’Irlande",
+		"id" : 3509,
+		"gn_description_custom" : "Hedera hibernica ",
+		"art_fkey" : 380
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bouleau de l'Himalaya",
+		"id" : 1009,
+		"gn_description_custom" : "Betula utilis",
+		"art_fkey" : 30
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès de Lawson",
+		"id" : 1012,
+		"gn_description_custom" : "Lawsoniana",
+		"art_fkey" : 52
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Houx",
+		"id" : 1013,
+		"gn_description_custom" : "Aquifolium",
+		"art_fkey" : 1001
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Buis commun",
+		"id" : 1016,
+		"gn_description_custom" : "Sempervirens",
+		"art_fkey" : 1003
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès chauve",
+		"id" : 1017,
+		"gn_description_custom" : "Disticum",
+		"art_fkey" : 1004
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Noisetier tortueux",
+		"id" : 1018,
+		"gn_description_custom" : "Avellana ‘contorta’",
+		"art_fkey" : 54
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier d'Italie",
+		"id" : 1002,
+		"gn_description_custom" : "Nigra 'Italica'",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier noir",
+		"id" : 1001,
+		"gn_description_custom" : "Nigra",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier carolin",
+		"id" : 1019,
+		"gn_description_custom" : "Trichocarpa",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Epicéa d'Orient",
+		"id" : 1020,
+		"gn_description_custom" : "Orientalis",
+		"art_fkey" : 77
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sapin de Céphalonie",
+		"id" : 1021,
+		"gn_description_custom" : "Cephalonica",
+		"art_fkey" : 5
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Laurier noble",
+		"id" : 1022,
+		"gn_description_custom" : "Nobilis",
+		"art_fkey" : 1005
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chèvrefeuille",
+		"id" : 1023,
+		"gn_description_custom" : "Nitida",
+		"art_fkey" : 370
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès d'Arizona",
+		"id" : 1024,
+		"gn_description_custom" : "Arizonica",
+		"art_fkey" : 56
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Osmanthe de Burkwood",
+		"id" : 1025,
+		"gn_description_custom" : "Burkwoodii",
+		"art_fkey" : 1006
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orme pleureur",
+		"id" : 1026,
+		"gn_description_custom" : "Glabra pendula",
+		"art_fkey" : 200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Marronnier jaune",
+		"id" : 1027,
+		"gn_description_custom" : "Flava",
+		"art_fkey" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Merisier",
+		"id" : 1100,
+		"gn_description_custom" : "avium",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ophrys abeille",
+		"id" : 3517,
+		"gn_description_custom" : "Ophrys apifera",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Ophrys bourdon",
+		"id" : 3516,
+		"gn_description_custom" : "Ophrys fuciflora",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Céphalanthère blanche",
+		"id" : 3515,
+		"gn_description_custom" : "Cephalanthera damasonium",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orchis pyramidal",
+		"id" : 3514,
+		"gn_description_custom" : "Anacamptis Pyramidalis",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orchis bouc",
+		"id" : 3513,
+		"gn_description_custom" : "Himantoglossum hircinum",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Clématite des montagnes Rubens",
+		"id" : 3512,
+		"gn_description_custom" : "Clemanis montana 'Rubens'",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Clématite des montagnes Tetrarose",
+		"id" : 3511,
+		"gn_description_custom" : "Clemanis montana 'Tetrarose'",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Clématite des montagnes Grandiflora",
+		"id" : 3510,
+		"gn_description_custom" : "Clemanis montana 'Grandiflora'",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Céphanlonique",
+		"id" : 1007,
+		"gn_description_custom" : "cephalonica",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Figuier",
+		"id" : 3500,
+		"gn_description_custom" : "carica",
+		"art_fkey" : 350
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Troène commun",
+		"id" : 681,
+		"gn_description_custom" : "vulgare",
+		"art_fkey" : 68
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Tremble d'Europe fastigié",
+		"id" : 1005,
+		"gn_description_custom" : "tremula 'Erecta'",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orme lisse",
+		"id" : 2002,
+		"gn_description_custom" : "laevis",
+		"art_fkey" : 200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Merisier à grappes",
+		"id" : 1107,
+		"gn_description_custom" : "padus",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Mirabellier",
+		"id" : 1108,
+		"gn_description_custom" : "domestica subsp. syriaca (fruits)",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pruneautier",
+		"id" : 1110,
+		"gn_description_custom" : "domestica subsp. insititia (fruits)",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cognassier",
+		"id" : 1,
+		"gn_description_custom" : "oblonga (fruits)",
+		"art_fkey" : 1
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pêcher",
+		"id" : 1111,
+		"gn_description_custom" : "persica (L.) Batsch (fruits)",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Abricotier",
+		"id" : 1112,
+		"gn_description_custom" : "armeniaca (fruits)",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Palmier de Chine",
+		"id" : 1751,
+		"gn_description_custom" : "fortunei",
+		"art_fkey" : 175
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prunellier",
+		"id" : 1115,
+		"gn_description_custom" : "spinosa",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cornouiller mâle",
+		"id" : 3011,
+		"gn_description_custom" : "mas",
+		"art_fkey" : 301
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Amélanchier laevis",
+		"id" : 281,
+		"gn_description_custom" : "laevis",
+		"art_fkey" : 28
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Amélanchier lamarckii",
+		"id" : 282,
+		"gn_description_custom" : "lamarckii",
+		"art_fkey" : 28
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Amélanchier rotundifolia",
+		"id" : 283,
+		"gn_description_custom" : "rotundifolia",
+		"art_fkey" : 28
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Alisier blanc",
+		"id" : 1603,
+		"gn_description_custom" : "aria",
+		"art_fkey" : 160
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Alisier torminal",
+		"id" : 1604,
+		"gn_description_custom" : "torminalis",
+		"art_fkey" : 160
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cormier",
+		"id" : 1605,
+		"gn_description_custom" : "domestica",
+		"art_fkey" : 160
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin parasol",
+		"id" : 804,
+		"gn_description_custom" : "Pinea",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin de l'Himalaya",
+		"id" : 805,
+		"gn_description_custom" : "Wallichiana",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule pleureur",
+		"id" : 1402,
+		"gn_description_custom" : "Salix babylonica",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parrotie de Perse",
+		"id" : 791,
+		"gn_description_custom" : "persica",
+		"art_fkey" : 79
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Parrotie de Perse fastigié",
+		"id" : 792,
+		"gn_description_custom" : "persica 'Vanessa'",
+		"art_fkey" : 79
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Laurier du Portugal",
+		"id" : 1116,
+		"gn_description_custom" : "lusitanica",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Laurier-cerise",
+		"id" : 1117,
+		"gn_description_custom" : "laurocesarus",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerisier du Tibet",
+		"id" : 1118,
+		"gn_description_custom" : "serrula",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Myrte de crêpe",
+		"id" : 661,
+		"gn_description_custom" : "indica",
+		"art_fkey" : 66
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Seringat",
+		"id" : 811,
+		"gn_description_custom" : "coronarius",
+		"art_fkey" : 81
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Lilas",
+		"id" : 1611,
+		"gn_description_custom" : "vulgaris",
+		"art_fkey" : 161
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Albizia",
+		"id" : 251,
+		"gn_description_custom" : "julibrissin",
+		"art_fkey" : 25
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Groseillier à grappes",
+		"id" : 1251,
+		"gn_description_custom" : "alpinum",
+		"art_fkey" : 125
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Groseillier à fleurs",
+		"id" : 1252,
+		"gn_description_custom" : "sanguineum",
+		"art_fkey" : 125
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Magnolia de Kobé",
+		"id" : 712,
+		"gn_description_custom" : "kobus",
+		"art_fkey" : 71
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Oranger trifolié",
+		"id" : 981,
+		"gn_description_custom" : "trifoliata",
+		"art_fkey" : 98
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orme RESISTA®",
+		"id" : 2003,
+		"gn_description_custom" : "resista",
+		"art_fkey" : 200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Noisetier commun",
+		"id" : 543,
+		"gn_description_custom" : "Avellana",
+		"art_fkey" : 54
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Montana",
+		"id" : 1006,
+		"gn_description_custom" : "Clématite des montanges",
+		"art_fkey" : 360
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "indigène persistant",
+		"id" : 3,
+		"gn_description_custom" : "indigène persistant",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "indigène caduc",
+		"id" : 2,
+		"gn_description_custom" : "indigène caduc",
+		"art_fkey" : null
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "If fastigié",
+		"id" : 1642,
+		"gn_description_custom" : "Taxus Fastigiata ",
+		"art_fkey" : 164
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Genévrier rampant",
+		"id" : 1028,
+		"gn_description_custom" : "Horizontalis",
+		"art_fkey" : 1002
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Noisetier pourpre",
+		"id" : 1029,
+		"gn_description_custom" : "Maxima ‘Purpurea’",
+		"art_fkey" : 54
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Groseiller sanguin",
+		"id" : 1030,
+		"gn_description_custom" : "Sanguineum",
+		"art_fkey" : 125
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Viorne tin",
+		"id" : 1031,
+		"gn_description_custom" : "Tinus",
+		"art_fkey" : 1007
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Glycine de Chine",
+		"id" : 1034,
+		"gn_description_custom" : "Sinensis",
+		"art_fkey" : 1011
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Heptacodion de chine",
+		"id" : 1035,
+		"gn_description_custom" : "Miconioides",
+		"art_fkey" : 1012
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne à feuilles de bambou",
+		"id" : 1036,
+		"gn_description_custom" : "Myrsinifolia",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbre à caramel",
+		"id" : 1037,
+		"gn_description_custom" : "Japonicum",
+		"art_fkey" : 1009
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbre aux mouchoirs",
+		"id" : 1038,
+		"gn_description_custom" : "Involucrata",
+		"art_fkey" : 1010
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin parasol du Japon",
+		"id" : 1032,
+		"gn_description_custom" : "Verticillata",
+		"art_fkey" : 1008
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin des Alpes",
+		"id" : 800,
+		"gn_description_custom" : "Cembra",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin de Montagne",
+		"id" : 806,
+		"gn_description_custom" : "Mugo",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Araucaria du Chili",
+		"id" : 6000,
+		"gn_description_custom" : "Araucaria araucana",
+		"art_fkey" : 1204
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Colutea arborescens",
+		"id" : 6001,
+		"gn_description_custom" : "Colutea arborescens",
+		"art_fkey" : 1200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier baumier",
+		"id" : 6002,
+		"gn_description_custom" : "Populus balsamifera",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pseudotaxus chienii",
+		"id" : 6004,
+		"gn_description_custom" : "Pseudotaxus chienii",
+		"art_fkey" : 1206
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Acacia dealbata",
+		"id" : 6005,
+		"gn_description_custom" : "Acacia dealbata",
+		"art_fkey" : 1203
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Olivier",
+		"id" : 6006,
+		"gn_description_custom" : "Olea europaea",
+		"art_fkey" : 1201
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule fragile",
+		"id" : 6007,
+		"gn_description_custom" : "Salix euxina",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aulne blanchâtre",
+		"id" : 6008,
+		"gn_description_custom" : "Alnus incana",
+		"art_fkey" : 26
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Kaki",
+		"id" : 6009,
+		"gn_description_custom" : "Diospyros kaki",
+		"art_fkey" : 1205
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pseudotsuga menziesii",
+		"id" : 6011,
+		"gn_description_custom" : "Pseudotsuga menziesii",
+		"art_fkey" : 1207
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pinus nigra subsp. austriaca",
+		"id" : 6012,
+		"gn_description_custom" : "Pinus nigra subsp. austriaca",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier d'Italie",
+		"id" : 6013,
+		"gn_description_custom" : "Populus nigra Italica",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Sureau noir",
+		"id" : 6014,
+		"gn_description_custom" : "Sambucus nigra",
+		"art_fkey" : 1202
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cupressus nootkatensis",
+		"id" : 6015,
+		"gn_description_custom" : "Cupressus nootkatensis",
+		"art_fkey" : 56
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Thuja occidentalis",
+		"id" : 6016,
+		"gn_description_custom" : "Thuja occidentalis",
+		"art_fkey" : 189
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Prunus cerasus",
+		"id" : 6003,
+		"gn_description_custom" : "cerasus",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Betula pendula 'Youngii'",
+		"id" : 6017,
+		"gn_description_custom" : "Betula pendula 'Youngii'",
+		"art_fkey" : 30
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne sessile",
+		"id" : 6018,
+		"gn_description_custom" : "Quercus petraea",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bouleau pubescens",
+		"id" : 6019,
+		"gn_description_custom" : "Betula pubescens",
+		"art_fkey" : 30
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Érable rouge",
+		"id" : 6020,
+		"gn_description_custom" : "Acer rubrum",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cornouiller femelle",
+		"id" : 6021,
+		"gn_description_custom" : "Cornus sanguine",
+		"art_fkey" : 301
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Pin blanc",
+		"id" : 6022,
+		"gn_description_custom" : "Pinus strobus",
+		"art_fkey" : 80
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Peuplier hybride euraméricain",
+		"id" : 6025,
+		"gn_description_custom" : "Populus xcanadensis",
+		"art_fkey" : 100
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Maronnier à fleurs rouges",
+		"id" : 6026,
+		"gn_description_custom" : "Aesculus xcarnea",
+		"art_fkey" : 20
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cyprès de Sawara",
+		"id" : 1039,
+		"gn_description_custom" : "Chamaecyparis pisifera",
+		"art_fkey" : 52
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cryptomère du Japon",
+		"id" : 1040,
+		"gn_description_custom" : "cryptoméria",
+		"art_fkey" : 1013
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule marsault",
+		"id" : 4,
+		"gn_description_custom" : "Salix caprea",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule tortueux",
+		"id" : 6010,
+		"gn_description_custom" : "Salix matsudana",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Argousier",
+		"id" : 6027,
+		"gn_description_custom" : "Hippophae rhamnoides",
+		"art_fkey" : 64
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orme de Hollande",
+		"id" : 2004,
+		"gn_description_custom" : "Ulmus × hollandica",
+		"art_fkey" : 200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule à feuille d'argousier",
+		"id" : 5,
+		"gn_description_custom" : "Salix elaeagnos 'Angustifolia'",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne des marais",
+		"id" : 1204,
+		"gn_description_custom" : "Quercus palustris",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cornouiller blanc",
+		"id" : 3012,
+		"gn_description_custom" : "Cornus alba",
+		"art_fkey" : 301
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Néflier du japon",
+		"id" : 6028,
+		"gn_description_custom" : "Eriobotrya japonica",
+		"art_fkey" : 1208
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable plane pourpre",
+		"id" : 103,
+		"gn_description_custom" : "platanoides 'Crimson King'",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Cerisier",
+		"id" : 1113,
+		"gn_description_custom" : "Prunus avium",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Griottier",
+		"id" : 1114,
+		"gn_description_custom" : "Prunus cesarus",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Platane d'Orient",
+		"id" : 902,
+		"gn_description_custom" : "Platanus orientalis",
+		"art_fkey" : 90
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Platane platanor",
+		"id" : 6,
+		"gn_description_custom" : "Platanor",
+		"art_fkey" : 90
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Arbre à kiwis",
+		"id" : 110,
+		"gn_description_custom" : "Deliciosa",
+		"art_fkey" : 11
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aulne blanc",
+		"id" : 7,
+		"gn_description_custom" : "Incana",
+		"art_fkey" : 26
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Chêne écarlate",
+		"id" : 8,
+		"gn_description_custom" : "Coccinea",
+		"art_fkey" : 120
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule pleureur doré",
+		"id" : 9,
+		"gn_description_custom" : "Salix alba Tristis",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule cendré",
+		"id" : 10,
+		"gn_description_custom" : "Cinerea",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule pourpre",
+		"id" : 11,
+		"gn_description_custom" : "Purpurea",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Saule à trois étamines",
+		"id" : 12,
+		"gn_description_custom" : "triandra",
+		"art_fkey" : 140
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Aubépine monogyne",
+		"id" : 13,
+		"gn_description_custom" : "Monogyna",
+		"art_fkey" : 55
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bourdaine",
+		"id" : 14,
+		"gn_description_custom" : "Alnus",
+		"art_fkey" : 2
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Micocoulier d'Europe",
+		"id" : 531,
+		"gn_description_custom" : "Australis",
+		"art_fkey" : 53
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Savonnier",
+		"id" : 54,
+		"gn_description_custom" : "Paniculata",
+		"art_fkey" : 6
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Faux-Merisier",
+		"id" : 17,
+		"gn_description_custom" : "Avium mahaleb",
+		"art_fkey" : 110
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Bouleau noir",
+		"id" : 19,
+		"gn_description_custom" : "Nigra",
+		"art_fkey" : 30
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Vigne",
+		"id" : 20,
+		"gn_description_custom" : "Vinifera",
+		"art_fkey" : 12
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Orme des montagnes",
+		"id" : 55,
+		"gn_description_custom" : "Glabra",
+		"art_fkey" : 200
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Grenadier à fruit",
+		"id" : 21,
+		"gn_description_custom" : "granatum",
+		"art_fkey" : 7
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Noisetier des sorcières",
+		"id" : 22,
+		"gn_description_custom" : "x intermedia ",
+		"art_fkey" : 8
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Weigela",
+		"id" : 23,
+		"gn_description_custom" : "florida",
+		"art_fkey" : 9
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Micocoulier de Julian",
+		"id" : 16,
+		"gn_description_custom" : "Julianae",
+		"art_fkey" : 53
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Micocoulier occidental",
+		"id" : 24,
+		"gn_description_custom" : "occidentalis ",
+		"art_fkey" : 53
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable negundo",
+		"id" : 108,
+		"gn_description_custom" : "negundo",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable à écorce de papier",
+		"id" : 6029,
+		"gn_description_custom" : "griseum",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable de Cappadoce",
+		"id" : 114,
+		"gn_description_custom" : "cappadocicum",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Erable à feuilles d’Obier",
+		"id" : 18,
+		"gn_description_custom" : "opalus",
+		"art_fkey" : 10
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Nerprun purgatif",
+		"id" : 15,
+		"gn_description_custom" : "catartica",
+		"art_fkey" : 3
+	},
+	{
+		"json_featuretype" : "value_lists",
+		"name" : "Févier d'Amérique",
+		"id" : 632,
+		"gn_description_custom" : "triacanthos",
+		"art_fkey" : 63
+	}
+]
