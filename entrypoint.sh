@@ -16,6 +16,7 @@ fi
 if [ "$ENV" == "DEV" ]; then
     python3 manage.py migrate
     python3 manage.py populate_users
+    python3 manage.py populate_data
 fi
 
 # Run the command
