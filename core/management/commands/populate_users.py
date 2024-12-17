@@ -14,7 +14,11 @@ class Command(BaseCommand):
 
         viewer, _ = User.objects.get_or_create(username="demo_viewer")
         editor, _ = User.objects.get_or_create(username="demo_editor")
-        super_user = User.objects.create_superuser(username="admin", is_staff=True)
+
+        if not User.objects.filter(username="admin", is_staff=True).count() > 0:
+            super_user = User.objects.create_superuser(username="admin", is_staff=True)
+        else:
+            super_user = User.objects.get(username="admin", is_staff=True)
 
         for user in (viewer, editor, super_user):
             user.set_password("123")

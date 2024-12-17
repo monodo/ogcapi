@@ -4,3 +4,4 @@ gunicorn
 psycopg
 requests
 whitenoise
+django-oapif@git+https://github.com/opengisch/django-oapif.git

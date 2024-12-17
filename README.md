@@ -5,11 +5,10 @@ Experimental projet for managing geographic data with Django ORM and OGC-APIF
 
 Clone this repository
 
-´´´
+```bash
 cp env.example .env
 docker compose build
 docker compose up -d && docker compose logs -f web
-´´´
+```
 
-Demo is running on ´´´localhost:8001´´´
-
+Demo is running on ```localhost:8001```

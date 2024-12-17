@@ -36,6 +36,10 @@ INSTALLED_APPS = [
     "core",
     "treemanager",
     "users",
+    # Django packages
+    "django_oapif",
+    "rest_framework",
+    "rest_framework_gis",
     # Django apps
     "django.contrib.admin",
     "django.contrib.auth",
@@ -136,3 +140,8 @@ STATIC_URL = "static/"
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+
+# OGC API ENDPOINT
+OAPIF_TITLE = "OGC API GDI"
+OAPIF_DESCRIPTION = "Tree management demo"
