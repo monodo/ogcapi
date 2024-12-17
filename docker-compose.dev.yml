@@ -42,4 +42,3 @@ services:
       - "${POSTGRES_DOCKER_PORT}:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
-
