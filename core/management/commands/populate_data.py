@@ -1,10 +1,11 @@
+import json
+
+from django.apps import apps
+from django.contrib.gis.geos import GEOSGeometry
 from django.core.management.base import BaseCommand
 from django.db import transaction
 
 from treemanager import models
-import json
-from django.apps import apps
-from django.contrib.gis.geos import GEOSGeometry
 
 
 class Command(BaseCommand):
@@ -35,28 +36,28 @@ class Command(BaseCommand):
 
         dir = "/code/demodata"
         for filename in datafiles_to_models_map.keys():
-            if filename.endswith(".json"): 
+            if filename.endswith(".json"):
 
-                with open(f"{dir}/{filename}") as data_file: 
-                    
+                with open(f"{dir}/{filename}") as data_file:
+
                     # model = apps.get_model('treemanager', datafiles_to_models_map[filename])
                     if filename in datafiles_to_models_map:
-                        current_model = apps.get_model('treemanager', datafiles_to_models_map[filename])
+                        current_model = apps.get_model(
+                            "treemanager", datafiles_to_models_map[filename]
+                        )
                         current_model.objects.all().delete()
- 
+
                         data = json.load(data_file)
 
                         # TODO: import related value lists: TypeArt / Cultivars / Subarts...
                         for v in data:
-                            current_model.objects.create(id=v['id'], name=v['name'])
+                            current_model.objects.create(id=v["id"], name=v["name"])
 
                 continue
             else:
                 continue
-        
-        print(
-            f"👥 added value lists"
-        )
+
+        print(f"👥 added value lists")
 
         # import trees
 
@@ -65,13 +66,11 @@ class Command(BaseCommand):
             data = json.load(data_file)
             i = 0
             while i < 2500:
-                i+=1
+                i += 1
                 v = data[i]
-                multipoint = GEOSGeometry(v['wkt_geometry'])
-                models.EspArbre.objects.create(diam_tronc=v['diam_tronc'], id=v['id'], geom=multipoint)
+                multipoint = GEOSGeometry(v["wkt_geometry"])
+                models.EspArbre.objects.create(
+                    diam_tronc=v["diam_tronc"], id=v["id"], geom=multipoint
+                )
 
-
-
-        print(
-            f"👥 added trees"
-        )
+        print(f"👥 added trees")

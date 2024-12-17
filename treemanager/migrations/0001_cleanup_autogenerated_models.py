@@ -9,181 +9,488 @@ class Migration(migrations.Migration):
 
     initial = True
 
-    dependencies = [
-    ]
+    dependencies = []
 
     operations = [
         migrations.CreateModel(
-            name='TypeArborisation',
+            name="TypeArborisation",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeArrosage',
+            name="TypeArrosage",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeArtArbre',
+            name="TypeArtArbre",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeArtSurface',
+            name="TypeArtSurface",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
-                ('labeltext', models.CharField(blank=True, null=True)),
-                ('keep', models.BooleanField(blank=True, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
+                ("labeltext", models.CharField(blank=True, null=True)),
+                ("keep", models.BooleanField(blank=True, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeAubanType',
+            name="TypeAubanType",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeConceptAggloy',
+            name="TypeConceptAggloy",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeLocalisation',
+            name="TypeLocalisation",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypePort',
+            name="TypePort",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeProtectionCastor',
+            name="TypeProtectionCastor",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeRue',
+            name="TypeRue",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('code', models.IntegerField(blank=True, null=True)),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
-                ('constraining', models.IntegerField(blank=True, null=True)),
-                ('rueid', models.SmallIntegerField(blank=True, null=True)),
-                ('short_name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("code", models.IntegerField(blank=True, null=True)),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
+                ("constraining", models.IntegerField(blank=True, null=True)),
+                ("rueid", models.SmallIntegerField(blank=True, null=True)),
+                ("short_name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeSteEspArbreCommemoratif',
+            name="TypeSteEspArbreCommemoratif",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeSteEspArbreRemarquable',
+            name="TypeSteEspArbreRemarquable",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(max_length=25)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(max_length=25)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeSteEspPublicDomain',
+            name="TypeSteEspPublicDomain",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeTypeSol',
+            name="TypeTypeSol",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeTypeSousSol',
+            name="TypeTypeSousSol",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
             ],
         ),
         migrations.CreateModel(
-            name='TypeSubartArbre',
+            name="TypeSubartArbre",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(blank=True, max_length=255, null=True)),
-                ('gn_description_custom', models.TextField(blank=True, null=True)),
-                ('art_fkey', models.ForeignKey(blank=True, db_column='art_fkey', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typeartarbre')),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(blank=True, max_length=255, null=True)),
+                ("gn_description_custom", models.TextField(blank=True, null=True)),
+                (
+                    "art_fkey",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="art_fkey",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typeartarbre",
+                    ),
+                ),
             ],
         ),
         migrations.CreateModel(
-            name='TypeCultivar',
+            name="TypeCultivar",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('name', models.CharField(max_length=255)),
-                ('Type_subart_arbre_fkey', models.ForeignKey(blank=True, db_column='Type_subart_arbre_fkey', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typesubartarbre')),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("name", models.CharField(max_length=255)),
+                (
+                    "Type_subart_arbre_fkey",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="Type_subart_arbre_fkey",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typesubartarbre",
+                    ),
+                ),
             ],
         ),
         migrations.CreateModel(
-            name='EspArbre',
+            name="EspArbre",
             fields=[
-                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('diam_tronc', models.FloatField(blank=True, null=True)),
-                ('circ_tronc', models.FloatField(blank=True, null=True)),
-                ('diam_couronne', models.FloatField(blank=True, null=True)),
-                ('rayon_couronne', models.FloatField(blank=True, null=True)),
-                ('rayon_tronc', models.FloatField(blank=True, null=True)),
-                ('hauteur_arbre', models.FloatField(blank=True, null=True)),
-                ('hauteur_tronc', models.FloatField(blank=True, null=True)),
-                ('remarques', models.CharField(blank=True, max_length=255, null=True)),
-                ('numfiche', models.IntegerField(blank=True, null=True)),
-                ('auban_nombre', models.IntegerField(blank=True, null=True)),
-                ('date_plantation', models.DateField(blank=True, null=True)),
-                ('date_abattage', models.DateField(blank=True, null=True)),
-                ('date_auban', models.DateField(blank=True, null=True)),
-                ('cultivar_id', models.IntegerField(blank=True, null=True)),
-                ('photo', models.TextField(blank=True, db_comment='1024', null=True)),
-                ('mf_last_edited_user', models.CharField(blank=True, max_length=255, null=True)),
-                ('created_at', models.DateTimeField(blank=True, null=True)),
-                ('updated_at', models.DateTimeField(blank=True, null=True)),
-                ('remarque_ctrl_annuel', models.CharField(blank=True, max_length=255, null=True)),
-                ('fk_statut', models.IntegerField(blank=True, null=True)),
-                ('arbre_commemoratif', models.BooleanField(blank=True, null=True)),
-                ('public_domain', models.BooleanField(blank=True, null=True)),
-                ('date_remplacement', models.DateField(blank=True, null=True)),
-                ('geom', django.contrib.gis.db.models.fields.MultiPointField(null=True, srid=2056, verbose_name='geom')),
-                ('arborisation', models.ForeignKey(blank=True, db_column='arborisation', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typearborisation')),
-                ('arrosage', models.ForeignKey(blank=True, db_column='arrosage', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typearrosage')),
-                ('art', models.ForeignKey(blank=True, db_column='art', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typeartarbre')),
-                ('auban_type', models.ForeignKey(blank=True, db_column='auban_type', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typeaubantype')),
-                ('concept_aggloy', models.ForeignKey(blank=True, db_column='concept_aggloy', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typeconceptaggloy')),
-                ('localisation', models.ForeignKey(blank=True, db_column='localisation', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typelocalisation')),
-                ('port', models.ForeignKey(blank=True, db_column='port', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typeport')),
-                ('fk_protection_castor', models.ForeignKey(blank=True, db_column='fk_protection_castor', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typeprotectioncastor')),
-                ('rue', models.ForeignKey(blank=True, db_column='rue', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typerue')),
-                ('fk_arbre_commemoratif', models.ForeignKey(blank=True, db_column='fk_arbre_commemoratif', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typesteesparbrecommemoratif')),
-                ('fk_arbre_remarquable', models.ForeignKey(blank=True, db_column='fk_arbre_remarquable', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typesteesparbreremarquable')),
-                ('fk_public_domain', models.ForeignKey(blank=True, db_column='fk_public_domain', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typesteesppublicdomain')),
-                ('art_subart', models.ForeignKey(blank=True, db_column='art_subart', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typesubartarbre')),
-                ('type_sol', models.ForeignKey(blank=True, db_column='type_sol', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typetypesol')),
-                ('type_sous_sol', models.ForeignKey(blank=True, db_column='type_sous_sol', null=True, on_delete=django.db.models.deletion.DO_NOTHING, to='treemanager.typetypesoussol')),
+                (
+                    "id",
+                    models.BigAutoField(
+                        auto_created=True,
+                        primary_key=True,
+                        serialize=False,
+                        verbose_name="ID",
+                    ),
+                ),
+                ("diam_tronc", models.FloatField(blank=True, null=True)),
+                ("circ_tronc", models.FloatField(blank=True, null=True)),
+                ("diam_couronne", models.FloatField(blank=True, null=True)),
+                ("rayon_couronne", models.FloatField(blank=True, null=True)),
+                ("rayon_tronc", models.FloatField(blank=True, null=True)),
+                ("hauteur_arbre", models.FloatField(blank=True, null=True)),
+                ("hauteur_tronc", models.FloatField(blank=True, null=True)),
+                ("remarques", models.CharField(blank=True, max_length=255, null=True)),
+                ("numfiche", models.IntegerField(blank=True, null=True)),
+                ("auban_nombre", models.IntegerField(blank=True, null=True)),
+                ("date_plantation", models.DateField(blank=True, null=True)),
+                ("date_abattage", models.DateField(blank=True, null=True)),
+                ("date_auban", models.DateField(blank=True, null=True)),
+                ("cultivar_id", models.IntegerField(blank=True, null=True)),
+                ("photo", models.TextField(blank=True, db_comment="1024", null=True)),
+                (
+                    "mf_last_edited_user",
+                    models.CharField(blank=True, max_length=255, null=True),
+                ),
+                ("created_at", models.DateTimeField(blank=True, null=True)),
+                ("updated_at", models.DateTimeField(blank=True, null=True)),
+                (
+                    "remarque_ctrl_annuel",
+                    models.CharField(blank=True, max_length=255, null=True),
+                ),
+                ("fk_statut", models.IntegerField(blank=True, null=True)),
+                ("arbre_commemoratif", models.BooleanField(blank=True, null=True)),
+                ("public_domain", models.BooleanField(blank=True, null=True)),
+                ("date_remplacement", models.DateField(blank=True, null=True)),
+                (
+                    "geom",
+                    django.contrib.gis.db.models.fields.MultiPointField(
+                        null=True, srid=2056, verbose_name="geom"
+                    ),
+                ),
+                (
+                    "arborisation",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="arborisation",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typearborisation",
+                    ),
+                ),
+                (
+                    "arrosage",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="arrosage",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typearrosage",
+                    ),
+                ),
+                (
+                    "art",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="art",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typeartarbre",
+                    ),
+                ),
+                (
+                    "auban_type",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="auban_type",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typeaubantype",
+                    ),
+                ),
+                (
+                    "concept_aggloy",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="concept_aggloy",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typeconceptaggloy",
+                    ),
+                ),
+                (
+                    "localisation",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="localisation",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typelocalisation",
+                    ),
+                ),
+                (
+                    "port",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="port",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typeport",
+                    ),
+                ),
+                (
+                    "fk_protection_castor",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="fk_protection_castor",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typeprotectioncastor",
+                    ),
+                ),
+                (
+                    "rue",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="rue",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typerue",
+                    ),
+                ),
+                (
+                    "fk_arbre_commemoratif",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="fk_arbre_commemoratif",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typesteesparbrecommemoratif",
+                    ),
+                ),
+                (
+                    "fk_arbre_remarquable",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="fk_arbre_remarquable",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typesteesparbreremarquable",
+                    ),
+                ),
+                (
+                    "fk_public_domain",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="fk_public_domain",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typesteesppublicdomain",
+                    ),
+                ),
+                (
+                    "art_subart",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="art_subart",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typesubartarbre",
+                    ),
+                ),
+                (
+                    "type_sol",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="type_sol",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typetypesol",
+                    ),
+                ),
+                (
+                    "type_sous_sol",
+                    models.ForeignKey(
+                        blank=True,
+                        db_column="type_sous_sol",
+                        null=True,
+                        on_delete=django.db.models.deletion.DO_NOTHING,
+                        to="treemanager.typetypesoussol",
+                    ),
+                ),
             ],
         ),
     ]
