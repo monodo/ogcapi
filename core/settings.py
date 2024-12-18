@@ -48,6 +48,11 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django.contrib.gis",
+    "allauth",
+    "allauth.account",
+    "allauth.socialaccount",
+    "allauth.socialaccount.providers.openid",
+    "allauth.socialaccount.providers.openid_connect",
 ]
 
 MIDDLEWARE = [
@@ -58,6 +63,7 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    "allauth.account.middleware.AccountMiddleware",
 ]
 
 ROOT_URLCONF = "core.urls"
@@ -145,3 +151,29 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 # OGC API ENDPOINT
 OAPIF_TITLE = "OGC API GDI"
 OAPIF_DESCRIPTION = "Tree management demo"
+
+
+SOCIALACCOUNT_PROVIDERS = {
+    "openid_connect": {
+        # Optional PKCE defaults to False, but may be required by your provider
+        # Can be set globally, or per app (settings).
+        "OAUTH_PKCE_ENABLED": True,
+        "APPS": [
+            {
+                "provider_id": "my-server",
+                "name": "My Login Server",
+                "client_id": "your.service.id",
+                "secret": "your.service.secret",
+                "settings": {
+                    "server_url": "https://my.server.example.com",
+                    # Optional token endpoint authentication method.
+                    # May be one of "client_secret_basic", "client_secret_post"
+                    # If omitted, a method from the the server's
+                    # token auth methods list is used
+                    "token_auth_method": "client_secret_basic",
+                    "oauth_pkce_enabled": True,
+                },
+            },
+        ],
+    }
+}

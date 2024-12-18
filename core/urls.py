@@ -21,4 +21,5 @@ from django_oapif.urls import oapif_router
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("oapif/", include(oapif_router.urls)),
+    path("accounts/", include("allauth.urls")),
 ]

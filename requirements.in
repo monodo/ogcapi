@@ -5,3 +5,4 @@ psycopg
 requests
 whitenoise
 django-oapif@git+https://github.com/opengisch/django-oapif.git
+django-allauth[socialaccount,openid]
