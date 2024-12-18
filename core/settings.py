@@ -28,6 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+DJANGO_DOCKER_PORT = os.getenv("DJANGO_DOCKER_PORT")
+
 
 # Application definition
 
@@ -71,7 +73,7 @@ ROOT_URLCONF = "core.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [],
+        "DIRS": [BASE_DIR / "templates"],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -153,6 +155,7 @@ OAPIF_TITLE = "OGC API GDI"
 OAPIF_DESCRIPTION = "Tree management demo"
 
 
+# TODO: generate demo config at Zitadel startup
 SOCIALACCOUNT_PROVIDERS = {
     "openid_connect": {
         # Optional PKCE defaults to False, but may be required by your provider

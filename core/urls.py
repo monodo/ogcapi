@@ -18,7 +18,10 @@ from django.contrib import admin
 from django.urls import include, path
 from django_oapif.urls import oapif_router
 
+from core import views
+
 urlpatterns = [
+    path("", views.home),
     path("admin/", admin.site.urls),
     path("oapif/", include(oapif_router.urls)),
     path("accounts/", include("allauth.urls")),
