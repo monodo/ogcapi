@@ -64,10 +64,7 @@ class Command(BaseCommand):
         with open(f"{dir}/mf_ste_esp.esp_arbre.json") as data_file:
             models.EspArbre.objects.all().delete()
             data = json.load(data_file)
-            i = 0
-            while i < 2500:
-                i += 1
-                v = data[i]
+            for v in data:
                 multipoint = GEOSGeometry(v["wkt_geometry"])
                 models.EspArbre.objects.create(
                     diam_tronc=v["diam_tronc"], id=v["id"], geom=multipoint

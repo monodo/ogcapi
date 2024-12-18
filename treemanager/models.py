@@ -15,7 +15,9 @@ from django.utils.translation import gettext_lazy as _
 from django_oapif.decorators import register_oapif_viewset
 
 
-@register_oapif_viewset(crs=2056)
+@register_oapif_viewset(
+    crs=2056,
+)
 class EspArbre(models.Model):
     art = models.ForeignKey(
         "TypeArtArbre", models.DO_NOTHING, db_column="art", blank=True, null=True

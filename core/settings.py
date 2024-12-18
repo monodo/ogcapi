@@ -160,8 +160,8 @@ SOCIALACCOUNT_PROVIDERS = {
         "OAUTH_PKCE_ENABLED": True,
         "APPS": [
             {
-                "provider_id": "my-server",
-                "name": "My Login Server",
+                "provider_id": "zitadel",
+                "name": "Demo Zitadel Service",
                 "client_id": "your.service.id",
                 "secret": "your.service.secret",
                 "settings": {
